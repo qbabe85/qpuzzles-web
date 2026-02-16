@@ -1,0 +1,83 @@
+[
+  {
+    "type": "text",
+    "name": "Text Puzzle",
+    "question": "Who is playing?",
+    "answer": "Natalia",
+    "hint": "The answer is a person's name."
+  },
+  {
+    "type": "free_the_dog",
+    "name": "Free The Dog",
+    "hint": "Maybe the dog likes the dark.",
+    "themeMode": "light"
+  },
+  {
+    "type": "word_guess",
+    "name": "Word Guess Puzzle",
+    "hint": "The word is related to gaining knowledge."
+  },
+  {
+    "type": "fill_all",
+    "name": "Fill All Puzzle",
+    "hint": "You must click an adjacent tile to the one you just clicked."
+  },
+  {
+    "type": "image",
+    "name": "Image Puzzle",
+    "imageAsset": "assets/symbol_grid.png",
+    "answer": "clio",
+    "hint": "The answer is a 4-letter word. Think of a muse of history."
+  },
+  {
+    "type": "connect_pairs",
+    "name": "Connect Pairs Puzzle",
+    "hint": "Select a color by tapping one of its colored tiles."
+  },
+  {
+    "type": "text",
+    "name": "Text Puzzle",
+    "question": "I speak without a mouth and hear without ears. What am I?",
+    "answer": "echo",
+    "hint": "It's a reflection of sound."
+  },
+  {
+    "type": "nonogram",
+    "name": "Nonogram Puzzle",
+    "hint": "Follow the numbers."
+  },
+  {
+    "type": "lights_out",
+    "name": "Lights Out Puzzle",
+    "hint": "Pressing a square toggles it and its adjacent (non-diagonal) squares."
+  },
+  {
+    "type": "sudoku",
+    "name": "Sudoku Puzzle",
+    "hint": "Fill the grid so that every row, column, and 3x3 box contains the digits 1 through 9 without repetition."
+  },
+  {
+    "type": "drag",
+    "name": "Drag Puzzle",
+    "hint": "Unscramble the tiles to form the original image."
+  },
+  {
+    "type": "pattern_shift",
+    "name": "Pattern Shift Puzzle",
+    "hint": "Restore the original pattern."
+  },
+  {
+    "type": "text",
+    "name": "Text Puzzle",
+    "question": "41.3039\n-81.9016",
+    "answer": "heart",
+    "hint": "These are geographic coordinates. What organ is associated with love?"
+  },
+  {
+    "type": "text",
+    "name": "Help Puzzle",
+    "question": "Need help?",
+    "answer": "yes",
+    "hint": "The answer is a simple affirmative."
+  }
+]
