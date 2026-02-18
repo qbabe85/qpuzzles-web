@@ -7,6 +7,11 @@
     "hint": "The answer is a person's name."
   },
   {
+    "type": "tetris",
+    "name": "Tetris Puzzle",
+    "hint": "Fill the board with all pieces"
+  },
+  {
     "type": "free_the_dog",
     "name": "Free The Dog",
     "hint": "Maybe the dog likes the dark.",
@@ -72,6 +77,11 @@
     "question": "41.3039\n-81.9016",
     "answer": "heart",
     "hint": "These are geographic coordinates. What organ is associated with love?"
+  },
+  {
+    "type": "bomb_disposal",
+    "name": "Bomb Disposal Puzzle",
+    "hint": "Avoid the bombs! Numbers show how many bombs are in the adjacent 8 tiles."
   },
   {
     "type": "text",
