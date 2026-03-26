@@ -7,9 +7,20 @@
     "hint": "The answer is a person's name."
   },
   {
+    "type": "trash_bin",
+    "name": "TrashBinPuzzle",
+    "hint": "Match the shown date to the right bin color."
+  },
+  {
+    "type": "fill_all",
+    "name": "Fill All Puzzle",
+    "hint": "You must click an adjacent tile to the one you just clicked."
+  },
+  {
     "type": "tetris",
     "name": "Tetris Puzzle",
-    "hint": "Fill the board with all pieces"
+    "hint": "Fill the board with all pieces",
+    "unlockDate": "2026-03-17T00:00:00Z"
   },
   {
     "type": "free_the_dog",
@@ -21,11 +32,6 @@
     "type": "word_guess",
     "name": "Word Guess Puzzle",
     "hint": "The word is related to gaining knowledge."
-  },
-  {
-    "type": "fill_all",
-    "name": "Fill All Puzzle",
-    "hint": "You must click an adjacent tile to the one you just clicked."
   },
   {
     "type": "image",
