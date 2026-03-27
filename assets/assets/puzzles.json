@@ -12,6 +12,11 @@
     "hint": "Match the shown date to the right bin color."
   },
   {
+    "type": "night_level",
+    "name": "NightLevelPuzzle",
+    "hint": "It only reveals itself at night."
+  },
+  {
     "type": "fill_all",
     "name": "Fill All Puzzle",
     "hint": "You must click an adjacent tile to the one you just clicked."
