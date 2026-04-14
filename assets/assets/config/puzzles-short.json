@@ -1,0 +1,19 @@
+[
+  {
+    "type": "text",
+    "name": "Text Puzzle",
+    "question": "Who is playing?",
+    "answer": "Natalia",
+    "hint": "The answer is a person's name."
+  },
+  {
+    "type": "trash_bin",
+    "name": "TrashBinPuzzle",
+    "hint": "Match the shown date to the right bin color."
+  },
+  {
+    "type": "night_level",
+    "name": "NightLevelPuzzle",
+    "hint": "It only reveals itself at night."
+  }
+]

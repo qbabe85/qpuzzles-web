@@ -1,19 +1,54 @@
 [
   {
     "type": "text",
-    "name": "Text Puzzle",
+    "name": "Init Puzzle",
     "question": "Who is playing?",
     "answer": "Natalia",
     "hint": "The answer is a person's name."
   },
   {
     "type": "trash_bin",
-    "name": "TrashBinPuzzle",
+    "name": "Trash Bin Puzzle",
     "hint": "Match the shown date to the right bin color."
   },
   {
+    "type": "image",
+    "name": "Code Puzzle",
+    "imageAsset": "assets/code.png",
+    "answer": "6580",
+    "hint": "31 \uD83D\uDD11 _ _ _ _"
+  },
+  {
+    "type": "image",
+    "name": "Parking Puzzle",
+    "imageAsset": "assets/parking.png",
+    "answer": "87",
+    "hint": "What is the number"
+  },
+  {
+    "type": "image",
+    "name": "Song Puzzle",
+    "imageAsset": "assets/rhcp.png",
+    "answer": "otherside",
+    "hint": "Good for karaoke"
+  },
+  {
+    "type": "image",
+    "name": "Island Puzzle",
+    "imageAsset": "assets/crete.png",
+    "answer": "crete",
+    "hint": "todo"
+  },
+  {
+    "type": "text",
+    "name": "Associations Puzzle",
+    "question": "Ponta de São Lourenço\nCR7\nCarros de Cesto do Monte\nPastéis de nata",
+    "answer": "Madera",
+    "hint": "Where is it?"
+  },
+  {
     "type": "night_level",
-    "name": "NightLevelPuzzle",
+    "name": "Night Level Puzzle",
     "hint": "It only reveals itself at night."
   },
   {
@@ -85,9 +120,9 @@
   {
     "type": "text",
     "name": "Text Puzzle",
-    "question": "41.3039\n-81.9016",
-    "answer": "heart",
-    "hint": "These are geographic coordinates. What organ is associated with love?"
+    "question": "50.792\n15.513",
+    "answer": "storm",
+    "hint": "Follow the coordinates."
   },
   {
     "type": "bomb_disposal",
