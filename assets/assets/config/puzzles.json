@@ -26,6 +26,11 @@
     "hint": "What is the number"
   },
   {
+    "type": "jumper",
+    "name": "Jumper Puzzle",
+    "hint": "There can be only one."
+  },
+  {
     "type": "image",
     "name": "Song Puzzle",
     "imageAsset": "assets/rhcp.png",
