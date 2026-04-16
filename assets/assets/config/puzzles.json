@@ -57,6 +57,11 @@
     "hint": "You must click an adjacent tile to the one you just clicked."
   },
   {
+    "type": "memory",
+    "name": "Memory Game",
+    "hint": "Watch the sequence and repeat it back."
+  },
+  {
     "type": "tetris",
     "name": "Tetris Puzzle",
     "hint": "Fill the board with all pieces",
