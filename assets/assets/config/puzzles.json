@@ -7,6 +7,12 @@
     "hint": "The answer is a person's name."
   },
   {
+    "type": "compose",
+    "name": "Compose Puzzle",
+    "imageAsset": "assets/poster.png",
+    "hint": "Reconstruct the image"
+  },
+  {
     "type": "trash_bin",
     "name": "Trash Bin Puzzle",
     "hint": "Match the shown date to the right bin color."
@@ -24,6 +30,27 @@
     "imageAsset": "assets/parking.png",
     "answer": "87",
     "hint": "What is the number"
+  },
+  {
+    "type": "text",
+    "name": "Text Puzzle",
+    "question": "qrzb kdufhuc suchg sucbuchfchqlhp",
+    "answer": "biszkopt",
+    "hint": "Szyfr Cezara"
+  },
+  {
+    "type": "text",
+    "name": "Text Puzzle",
+    "question": "skrzynia bez zawiasów, klucza i pokrywy, lecz złocisty w środku skarb kryje prawdziwy",
+    "answer": "jajko",
+    "hint": "Czyli tam i z powrotem"
+  },
+  {
+    "type": "text",
+    "name": "Text Puzzle",
+    "question": "2208\n\nteż ma urodziny",
+    "answer": "DuaLipa",
+    "hint": "One kiss is all it takes"
   },
   {
     "type": "jumper",
@@ -118,11 +145,6 @@
     "hint": "Fill the grid so that every row, column, and 3x3 box contains the digits 1 through 9 without repetition."
   },
   {
-    "type": "drag",
-    "name": "Drag Puzzle",
-    "hint": "Unscramble the tiles to form the original image."
-  },
-  {
     "type": "pattern_shift",
     "name": "Pattern Shift Puzzle",
     "hint": "Restore the original pattern."
@@ -138,12 +160,5 @@
     "type": "bomb_disposal",
     "name": "Bomb Disposal Puzzle",
     "hint": "Avoid the bombs! Numbers show how many bombs are in the adjacent 8 tiles."
-  },
-  {
-    "type": "text",
-    "name": "Help Puzzle",
-    "question": "Need help?",
-    "answer": "yes",
-    "hint": "The answer is a simple affirmative."
   }
 ]
