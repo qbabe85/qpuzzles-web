@@ -13,6 +13,13 @@
     "hint": "Reconstruct the image"
   },
   {
+    "type": "text",
+    "name": "Text Puzzle",
+    "question": "2208\n\nteż ma urodziny",
+    "answer": "Dua Lipa",
+    "hint": "One kiss is all it takes"
+  },
+  {
     "type": "trash_bin",
     "name": "Trash Bin Puzzle",
     "hint": "Match the shown date to the right bin color."
@@ -44,13 +51,6 @@
     "question": "skrzynia bez zawiasów, klucza i pokrywy, lecz złocisty w środku skarb kryje prawdziwy",
     "answer": "jajko",
     "hint": "Czyli tam i z powrotem"
-  },
-  {
-    "type": "text",
-    "name": "Text Puzzle",
-    "question": "2208\n\nteż ma urodziny",
-    "answer": "DuaLipa",
-    "hint": "One kiss is all it takes"
   },
   {
     "type": "jumper",
