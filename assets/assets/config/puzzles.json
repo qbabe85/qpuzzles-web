@@ -7,6 +7,11 @@
     "hint": "The answer is a person's name."
   },
   {
+    "type": "arrows",
+    "name": "Arrows Puzzle",
+    "hint": "Click an arrow to remove it. The path must be clear!"
+  },
+  {
     "type": "compose",
     "name": "Compose Puzzle",
     "imageAsset": "assets/poster.png",
