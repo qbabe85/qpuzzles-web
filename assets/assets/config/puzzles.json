@@ -7,6 +7,13 @@
     "hint": "The answer is a person's name."
   },
   {
+    "type": "text",
+    "name": "Lines&Dots Puzzle",
+    "question": "-...\n..-\n-..\n.-.\n-.--\n...",
+    "answer": "Budrys",
+    "hint": "sos"
+  },
+  {
     "type": "arrows",
     "name": "Arrows Puzzle",
     "hint": "Click an arrow to remove it. The path must be clear!"
