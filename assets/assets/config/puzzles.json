@@ -1,176 +1,447 @@
 [
   {
     "type": "text",
-    "name": "Init Puzzle",
-    "question": "Who is playing?",
-    "answer": "Natalia",
-    "hint": "The answer is a person's name."
+    "name": {
+      "en": "Init",
+      "pl": "Start"
+    },
+    "question": {
+      "en": "Who is playing?",
+      "pl": "Kto gra?"
+    },
+    "answer": {
+      "en": "Natalia",
+      "pl": "Natalia"
+    },
+    "hint": {
+      "en": "Please introduce yourself.",
+      "pl": "Przedstaw się proszę."
+    }
   },
   {
-    "type": "text",
-    "name": "Lines&Dots Puzzle",
-    "question": "-...\n..-\n-..\n.-.\n-.--\n...",
-    "answer": "Budrys",
-    "hint": "sos"
-  },
-  {
-    "type": "arrows",
-    "name": "Arrows Puzzle",
-    "hint": "Click an arrow to remove it. The path must be clear!"
-  },
-  {
-    "type": "compose",
-    "name": "Compose Puzzle",
-    "imageAsset": "assets/poster.png",
-    "hint": "Reconstruct the image"
-  },
-  {
-    "type": "text",
-    "name": "Text Puzzle",
-    "question": "2208\n\nteż ma urodziny",
-    "answer": "Dua Lipa",
-    "hint": "One kiss is all it takes"
+    "type": "language_hints",
+    "name": {
+      "en": "Language Hints",
+      "pl": "Językowe Podpowiedzi"
+    },
+    "hints": {
+      "en": [
+        "It is not a physical object.",
+        "It is always coming, but never arrives.",
+        "It exists only because time moves forward."
+      ],
+      "pl": [
+        "Zawsze jest przed tobą, nigdy za.",
+        "Nie istnieje teraz — zawsze dopiero nadejdzie.",
+        "Choć jest przed tobą, nigdy jej nie zobaczysz."
+      ]
+    },
+    "answer": {
+      "en": "Future",
+      "pl": "Przyszłość"
+    },
+    "hint": {
+      "en": "Maybe try it in Polish",
+      "pl": "Może spróbuj po angielsku"
+    }
   },
   {
     "type": "trash_bin",
-    "name": "Trash Bin Puzzle",
-    "hint": "Match the shown date to the right bin color."
-  },
-  {
-    "type": "image",
-    "name": "Code Puzzle",
-    "imageAsset": "assets/code.png",
-    "answer": "6580",
-    "hint": "31 \uD83D\uDD11 _ _ _ _"
-  },
-  {
-    "type": "image",
-    "name": "Parking Puzzle",
-    "imageAsset": "assets/parking.png",
-    "answer": "87",
-    "hint": "What is the number"
-  },
-  {
-    "type": "text",
-    "name": "Text Puzzle",
-    "question": "qrzb kdufhuc suchg sucbuchfchqlhp",
-    "answer": "biszkopt",
-    "hint": "Szyfr Cezara"
-  },
-  {
-    "type": "text",
-    "name": "Text Puzzle",
-    "question": "skrzynia bez zawiasów, klucza i pokrywy, lecz złocisty w środku skarb kryje prawdziwy",
-    "answer": "jajko",
-    "hint": "Czyli tam i z powrotem"
-  },
-  {
-    "type": "jumper",
-    "name": "Jumper Puzzle",
-    "hint": "There can be only one."
-  },
-  {
-    "type": "image",
-    "name": "Song Puzzle",
-    "imageAsset": "assets/rhcp.png",
-    "answer": "otherside",
-    "hint": "Good for karaoke"
-  },
-  {
-    "type": "image",
-    "name": "Island Puzzle",
-    "imageAsset": "assets/crete.png",
-    "answer": "crete",
-    "hint": "todo"
-  },
-  {
-    "type": "text",
-    "name": "Associations Puzzle",
-    "question": "Ponta de São Lourenço\nCR7\nCarros de Cesto do Monte\nPastéis de nata",
-    "answer": "Madera",
-    "hint": "Where is it?"
+    "name": {
+      "en": "Trash Bins",
+      "pl": "Kosze na śmieci"
+    },
+    "hint": {
+      "en": "What do we put out then?",
+      "pl": "Co wtedy wystawiamy?"
+    }
   },
   {
     "type": "night_level",
-    "name": "Night Level Puzzle",
-    "hint": "It only reveals itself at night."
+    "name": {
+      "en": "Night Level",
+      "pl": "Poziom nocny"
+    },
+    "answer": {
+      "en": "Scorpio",
+      "pl": "Skorpion"
+    },
+    "hint": {
+      "en": "It only reveals itself at night.",
+      "pl": "Ujawnia się tylko w nocy."
+    }
+  },
+  {
+    "type": "text",
+    "name": {
+      "en": "Lines & Dots",
+      "pl": "Kropki i kreski"
+    },
+    "question": {
+      "en": "-...\n..-\n-..\n.-.\n-.--\n...",
+      "pl": "-...\n..-\n-..\n.-.\n-.--\n..."
+    },
+    "answer": {
+      "en": "Budrys",
+      "pl": "Budrys"
+    },
+    "hint": {
+      "en": "SOS",
+      "pl": "SOS"
+    }
+  },
+  {
+    "type": "text",
+    "name": {
+      "en": "Ave Caesar",
+      "pl": "Ave Cezar"
+    },
+    "question": {
+      "en": "qhz vfrxw ehiruh wkh rdwk lq srodqg",
+      "pl": "qrzb kdufhuc suchg sucbuchfchqlhp"
+    },
+    "answer": {
+      "en": "biscuit",
+      "pl": "biszkopt"
+    },
+    "hint": {
+      "en": "Caesar's cipher.",
+      "pl": "Szyfr Cezara."
+    }
+  },
+  {
+    "type": "arrows",
+    "name": {
+      "en": "Arrows",
+      "pl": "Strzałki"
+    },
+    "hint": {
+      "en": "Get rid of the arrows.",
+      "pl": "Pozbądź się strzałek."
+    }
+  },
+  {
+    "type": "compose",
+    "name": {
+      "en": "Compose",
+      "pl": "Składanka"
+    },
+    "imageAsset": "assets/poster.png",
+    "hint": {
+      "en": "Reconstruct the image.",
+      "pl": "Zrekonstruuj obraz."
+    }
+  },
+  {
+    "type": "text",
+    "name": {
+      "en": "Birthday",
+      "pl": "Urodziny"
+    },
+    "question": {
+      "en": "2208\n\nhas birthday as well",
+      "pl": "2208\n\nteż ma urodziny"
+    },
+    "answer": {
+      "en": "Dua Lipa",
+      "pl": "Dua Lipa"
+    },
+    "hint": {
+      "en": "One kiss is all it takes.",
+      "pl": "Jeden pocałunek to wszystko co trzeba."
+    }
+  },
+  {
+    "type": "image",
+    "name": {
+      "en": "Intercom",
+      "pl": "Domofon"
+    },
+    "imageAsset": "assets/code.png",
+    "answer": {
+      "en": "6580",
+      "pl": "6580"
+    },
+    "hint": {
+      "en": "31 🔑 _ _ _ _",
+      "pl": "31 🔑 _ _ _ _"
+    }
+  },
+  {
+    "type": "image",
+    "name": {
+      "en": "Parking",
+      "pl": "Parking"
+    },
+    "imageAsset": "assets/parking.png",
+    "answer": {
+      "en": "87",
+      "pl": "87"
+    },
+    "hint": {
+      "en": "Where is the car parked?",
+      "pl": "Gdzie zaparkował?"
+    }
+  },
+  {
+    "type": "text",
+    "name": {
+      "en": "Hobbit",
+      "pl": "Hobbit"
+    },
+    "question": {
+      "en": "A box without hinges, key, or lid, yet golden treasure inside is hid.",
+      "pl": "skrzynia bez zawiasów, klucza i pokrywy, lecz złocisty w środku skarb kryje prawdziwy"
+    },
+    "answer": {
+      "en": "egg",
+      "pl": "jajko"
+    },
+    "hint": {
+      "en": "Riddles in the Dark.",
+      "pl": "Czyli tam i z powrotem."
+    }
+  },
+  {
+    "type": "jumper",
+    "name": {
+      "en": "Jumper",
+      "pl": "Skoczek"
+    },
+    "hint": {
+      "en": "There can be only one.",
+      "pl": "Może zostać tylko jeden."
+    }
+  },
+  {
+    "type": "image",
+    "name": {
+      "en": "Song",
+      "pl": "Piosenka"
+    },
+    "imageAsset": "assets/rhcp.png",
+    "answer": {
+      "en": "otherside",
+      "pl": "otherside"
+    },
+    "hint": {
+      "en": "Good for karaoke",
+      "pl": "Dobre na karaoke"
+    }
+  },
+  {
+    "type": "image",
+    "name": {
+      "en": "Island",
+      "pl": "Wyspa"
+    },
+    "imageAsset": "assets/crete.png",
+    "answer": {
+      "en": "Crete",
+      "pl": "Kreta"
+    },
+    "hint": {
+      "en": "todo",
+      "pl": "todo"
+    }
+  },
+  {
+    "type": "text",
+    "name": {
+      "en": "Associations",
+      "pl": "Skojarzenia"
+    },
+    "question": {
+      "en": "Ponta de São Lourenço\nCR7\nCarros de Cesto do Monte\nPastéis de nata",
+      "pl": "Ponta de São Lourenço\nCR7\nCarros de Cesto do Monte\nPastéis de nata"
+    },
+    "answer": {
+      "en": "Madeira",
+      "pl": "Madera"
+    },
+    "hint": {
+      "en": "Where is it?",
+      "pl": "Gdzie to jest?"
+    }
+  },
+  {
+    "type": "text",
+    "name": {
+      "en": "Numbers",
+      "pl": "Liczby"
+    },
+    "question": {
+      "en": "84 114 117 102 108 97",
+      "pl": "84 114 117 102 108 97"
+    },
+    "answer": {
+      "en": "trufla",
+      "pl": "trufla"
+    },
+    "hint": {
+      "en": "ASCII",
+      "pl": "ASCII"
+    }
   },
   {
     "type": "fill_all",
-    "name": "Fill All Puzzle",
-    "hint": "You must click an adjacent tile to the one you just clicked."
+    "name": {
+      "en": "Fill All",
+      "pl": "Wypełnij"
+    },
+    "hint": {
+      "en": "Fill All Tiles.",
+      "pl": "Wypełnij wszystkie kafelki."
+    }
   },
   {
     "type": "memory",
-    "name": "Memory Game",
-    "hint": "Watch the sequence and repeat it back."
+    "name": {
+      "en": "Memory",
+      "pl": "Pamięć"
+    },
+    "hint": {
+      "en": "Watch the sequence and repeat it back.",
+      "pl": "Obserwuj sekwencję i powtórz ją."
+    }
   },
   {
     "type": "tetris",
-    "name": "Tetris Puzzle",
-    "hint": "Fill the board with all pieces",
-    "unlockDate": "2026-03-17T00:00:00Z"
+    "name": {
+      "en": "Tetris",
+      "pl": "Tetris"
+    },
+    "hint": {
+      "en": "Fill the board with all pieces.",
+      "pl": "Wypełnij planszę wszystkimi elementami."
+    },
+    "unlockDate": "2026-04-30T00:00:00Z"
   },
   {
     "type": "free_the_dog",
-    "name": "Free The Dog",
-    "hint": "Maybe the dog likes the dark.",
+    "name": {
+      "en": "Free The Dog",
+      "pl": "Uwolnij psa"
+    },
+    "hint": {
+      "en": "Maybe the dog likes the dark.",
+      "pl": "Może pies lubi ciemność."
+    },
     "themeMode": "light"
   },
   {
     "type": "word_guess",
-    "name": "Word Guess Puzzle",
-    "hint": "The word is related to gaining knowledge."
-  },
-  {
-    "type": "image",
-    "name": "Image Puzzle",
-    "imageAsset": "assets/symbol_grid.png",
-    "answer": "clio",
-    "hint": "The answer is a 4-letter word. Think of a muse of history."
+    "name": {
+      "en": "Word Guess",
+      "pl": "Literalnie"
+    },
+    "hint": {
+      "en": "The word is related to gaining knowledge.",
+      "pl": "Słowo wiąże się z zdobywaniem wiedzy."
+    }
   },
   {
     "type": "connect_pairs",
-    "name": "Connect Pairs Puzzle",
-    "hint": "Select a color by tapping one of its colored tiles."
+    "name": {
+      "en": "Connect Pairs",
+      "pl": "Połącz pary"
+    },
+    "hint": {
+      "en": "Select a color by tapping one of its colored tiles.",
+      "pl": "Wybierz kolor, klikając na jeden z jego kolorowych kafelków."
+    }
   },
   {
     "type": "text",
-    "name": "Text Puzzle",
-    "question": "I speak without a mouth and hear without ears. What am I?",
-    "answer": "echo",
-    "hint": "It's a reflection of sound."
+    "name": {
+      "en": "Riddle",
+      "pl": "Zagadka"
+    },
+    "question": {
+      "en": "I speak without a mouth and hear without ears. What am I?",
+      "pl": "Mówię bez ust i słyszę bez uszu. Czym jestem?"
+    },
+    "answer": {
+      "en": "echo",
+      "pl": "echo"
+    },
+    "hint": {
+      "en": "It's a reflection of sound.",
+      "pl": "To odbicie dźwięku."
+    }
   },
   {
     "type": "nonogram",
-    "name": "Nonogram Puzzle",
-    "hint": "Follow the numbers."
+    "name": {
+      "en": "Nonogram",
+      "pl": "Nonogram"
+    },
+    "hint": {
+      "en": "Follow the numbers.",
+      "pl": "Podążaj za numerami."
+    }
   },
   {
     "type": "lights_out",
-    "name": "Lights Out Puzzle",
-    "hint": "Pressing a square toggles it and its adjacent (non-diagonal) squares."
+    "name": {
+      "en": "Lights Out",
+      "pl": "Zgaś światła"
+    },
+    "hint": {
+      "en": "Turn all the lights off",
+      "pl": "Zgaś wszystkie światła"
+    }
   },
   {
     "type": "sudoku",
-    "name": "Sudoku Puzzle",
-    "hint": "Fill the grid so that every row, column, and 3x3 box contains the digits 1 through 9 without repetition."
+    "name": {
+      "en": "Sudoku ",
+      "pl": "Sudoku"
+    },
+    "hint": {
+      "en": "Fill the grid so that every row, column, and 3x3 box contains the digits 1 through 9 without repetition.",
+      "pl": "Wypełnij siatkę tak, aby każdy wiersz, kolumna i kwadrat 3x3 zawierał cyfry od 1 do 9 bez powtórzeń."
+    }
   },
   {
     "type": "pattern_shift",
-    "name": "Pattern Shift Puzzle",
-    "hint": "Restore the original pattern."
+    "name": {
+      "en": "Pattern Shift",
+      "pl": "Uciekający wzór"
+    },
+    "hint": {
+      "en": "Restore the pattern.",
+      "pl": "Przywróć zaznaczony wzór."
+    }
   },
   {
     "type": "text",
-    "name": "Text Puzzle",
-    "question": "50.792\n15.513",
-    "answer": "storm",
-    "hint": "Follow the coordinates."
+    "name": {
+      "en": "Coordinates",
+      "pl": "Współrzędne"
+    },
+    "question": {
+      "en": "50.792\n15.513",
+      "pl": "50.792\n15.513"
+    },
+    "answer": {
+      "en": "storm",
+      "pl": "burza"
+    },
+    "hint": {
+      "en": "What could happen there?",
+      "pl": "Co tam można spotkać?"
+    }
   },
   {
     "type": "bomb_disposal",
-    "name": "Bomb Disposal Puzzle",
-    "hint": "Avoid the bombs! Numbers show how many bombs are in the adjacent 8 tiles."
+    "name": {
+      "en": "Bomb Disposal",
+      "pl": "Rozbrojenie bomb"
+    },
+    "hint": {
+      "en": "There are 7 bombs. Find all the safe spots.",
+      "pl": "Jest 7 bomb. Znajdź wszystkie bezpieczne miejsca."
+    }
   }
 ]
