@@ -19,6 +19,17 @@
     }
   },
   {
+    "type": "rummy",
+    "name": {
+      "en": "Rummy",
+      "pl": "Remik"
+    },
+    "hint": {
+      "en": "You can finish it",
+      "pl": "Możesz to skończyć"
+    }
+  },
+  {
     "type": "language_hints",
     "name": {
       "en": "Language Hints",
