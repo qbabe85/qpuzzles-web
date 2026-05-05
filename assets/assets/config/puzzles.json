@@ -57,6 +57,21 @@
     }
   },
   {
+    "type": "word_guess",
+    "name": {
+      "en": "Word Guess",
+      "pl": "Literalnie"
+    },
+    "words": {
+      "en": ["LEARN", "STUDY", "TEACH"],
+      "pl": ["UCZYĆ", "NAUKA", "UCZEŃ"]
+    },
+    "hint": {
+      "en": "The word is related to gaining knowledge.",
+      "pl": "Słowo wiąże się z zdobywaniem wiedzy."
+    }
+  },
+  {
     "type": "night_level",
     "name": {
       "en": "Night Level",
@@ -328,17 +343,6 @@
       "pl": "Może pies lubi ciemność."
     },
     "themeMode": "light"
-  },
-  {
-    "type": "word_guess",
-    "name": {
-      "en": "Word Guess",
-      "pl": "Literalnie"
-    },
-    "hint": {
-      "en": "The word is related to gaining knowledge.",
-      "pl": "Słowo wiąże się z zdobywaniem wiedzy."
-    }
   },
   {
     "type": "connect_pairs",
