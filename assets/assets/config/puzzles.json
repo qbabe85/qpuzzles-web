@@ -19,83 +19,46 @@
     }
   },
   {
-    "type": "rummy",
+    "type": "text",
     "name": {
-      "en": "Rummy",
-      "pl": "Remik"
+      "en": "Birthday",
+      "pl": "Urodziny"
     },
-    "hint": {
-      "en": "You can finish it",
-      "pl": "Możesz to skończyć"
-    }
-  },
-  {
-    "type": "language_hints",
-    "name": {
-      "en": "Language Hints",
-      "pl": "Językowe Podpowiedzi"
-    },
-    "hints": {
-      "en": [
-        "It is not a physical object.",
-        "It is always coming, but never arrives.",
-        "It exists only because time moves forward."
-      ],
-      "pl": [
-        "Zawsze jest przed tobą, nigdy za.",
-        "Nie istnieje teraz — zawsze dopiero nadejdzie.",
-        "Choć jest przed tobą, nigdy jej nie zobaczysz."
-      ]
+    "question": {
+      "en": "2208\n\nhas birthday as well",
+      "pl": "2208\n\nteż ma urodziny"
     },
     "answer": {
-      "en": "Future",
-      "pl": "Przyszłość"
+      "en": "Dua Lipa",
+      "pl": "Dua Lipa"
     },
     "hint": {
-      "en": "Maybe try it in Polish",
-      "pl": "Może spróbuj po angielsku"
+      "en": "One kiss is all it takes.",
+      "pl": "Jeden pocałunek to wszystko co trzeba."
     }
   },
   {
-    "type": "trash_bin",
+    "type": "fill_all",
     "name": {
-      "en": "Trash Bins",
-      "pl": "Kosze na śmieci"
+      "en": "Fill All",
+      "pl": "Wypełnij"
     },
     "hint": {
-      "en": "What do we put out then?",
-      "pl": "Co wtedy wystawiamy?"
+      "en": "Fill All Tiles.",
+      "pl": "Wypełnij wszystkie kafelki."
     }
   },
   {
-    "type": "word_guess",
+    "type": "free_the_dog",
     "name": {
-      "en": "Word Guess",
-      "pl": "Literalnie"
-    },
-    "words": {
-      "en": ["LEARN", "STUDY", "TEACH"],
-      "pl": ["UCZYĆ", "NAUKA", "UCZEŃ"]
+      "en": "Free The Dog",
+      "pl": "Uwolnij psa"
     },
     "hint": {
-      "en": "The word is related to gaining knowledge.",
-      "pl": "Słowo wiąże się z zdobywaniem wiedzy."
-    }
-  },
-  {
-    "type": "night_level",
-    "name": {
-      "en": "Night Level",
-      "pl": "Poziom nocny"
+      "en": "Free the gog.",
+      "pl": "Uwolnij psa."
     },
-    "answer": {
-      "en": "Scorpio",
-      "pl": "Skorpion"
-    },
-    "hint": {
-      "en": "It only reveals itself at night.",
-      "pl": "Ujawnia się tylko w nocy."
-    }
+    "themeMode": "light"
   },
   {
     "type": "text",
@@ -114,6 +77,55 @@
     "hint": {
       "en": "SOS",
       "pl": "SOS"
+    }
+  },
+  {
+    "type": "arrows",
+    "name": {
+      "en": "Arrows",
+      "pl": "Strzałki"
+    },
+    "hint": {
+      "en": "Get rid of the arrows.",
+      "pl": "Pozbądź się strzałek."
+    }
+  },
+  {
+    "type": "language_hints",
+    "name": {
+      "en": "Language Hints",
+      "pl": "Językowe Podpowiedzi"
+    },
+    "hints": {
+      "en": [
+        "It is not a physical object",
+        "It's always coming, but never arrives",
+        "Marty travelled there in time"
+      ],
+      "pl": [
+        "Zawsze jest przed tobą, nigdy za",
+        "Nie istnieje teraz — zawsze dopiero nadejdzie",
+        "Choć jest przed tobą, nigdy jej nie zobaczysz"
+      ]
+    },
+    "answer": {
+      "en": "Future",
+      "pl": "Przyszłość"
+    },
+    "hint": {
+      "en": "Maybe try it in Polish",
+      "pl": "Może spróbuj po angielsku"
+    }
+  },
+  {
+    "type": "memory",
+    "name": {
+      "en": "Memory",
+      "pl": "Pamięć"
+    },
+    "hint": {
+      "en": "Watch the sequence and repeat it back.",
+      "pl": "Obserwuj sekwencję i powtórz ją."
     }
   },
   {
@@ -136,61 +148,147 @@
     }
   },
   {
-    "type": "arrows",
+    "type": "nonogram",
     "name": {
-      "en": "Arrows",
-      "pl": "Strzałki"
+      "en": "Nonogram",
+      "pl": "Nonogram"
     },
     "hint": {
-      "en": "Get rid of the arrows.",
-      "pl": "Pozbądź się strzałek."
+      "en": "Follow the numbers.",
+      "pl": "Podążaj za numerami."
     }
   },
   {
-    "type": "compose",
+    "type": "night_level",
     "name": {
-      "en": "Compose",
-      "pl": "Składanka"
-    },
-    "imageAsset": "assets/poster.png",
-    "hint": {
-      "en": "Reconstruct the image.",
-      "pl": "Zrekonstruuj obraz."
-    }
-  },
-  {
-    "type": "text",
-    "name": {
-      "en": "Birthday",
-      "pl": "Urodziny"
-    },
-    "question": {
-      "en": "2208\n\nhas birthday as well",
-      "pl": "2208\n\nteż ma urodziny"
+      "en": "Night Level",
+      "pl": "Poziom nocny"
     },
     "answer": {
-      "en": "Dua Lipa",
-      "pl": "Dua Lipa"
+      "en": "Scorpio",
+      "pl": "Skorpion"
     },
     "hint": {
-      "en": "One kiss is all it takes.",
-      "pl": "Jeden pocałunek to wszystko co trzeba."
+      "en": "It only reveals itself at night.",
+      "pl": "Ujawnia się tylko w nocy."
+    }
+  },
+  {
+    "type": "connect_pairs",
+    "name": {
+      "en": "Connect Pairs",
+      "pl": "Połącz pary"
+    },
+    "hint": {
+      "en": "Select a color by tapping one of its colored tiles.",
+      "pl": "Wybierz kolor, klikając na jeden z jego kolorowych kafelków."
     }
   },
   {
     "type": "image",
     "name": {
-      "en": "Intercom",
-      "pl": "Domofon"
+      "en": "Song",
+      "pl": "Piosenka"
     },
-    "imageAsset": "assets/code.png",
+    "imageAsset": "assets/rhcp.png",
     "answer": {
-      "en": "6580",
-      "pl": "6580"
+      "en": "otherside",
+      "pl": "otherside"
     },
     "hint": {
-      "en": "31 🔑 _ _ _ _",
-      "pl": "31 🔑 _ _ _ _"
+      "en": "Good for karaoke",
+      "pl": "Dobre na karaoke"
+    }
+  },
+  {
+    "type": "word_guess",
+    "name": {
+      "en": "Word Guess",
+      "pl": "Literalnie"
+    },
+    "words": {
+      "en": ["LEARN", "STUDY", "TEACH"],
+      "pl": ["UCZYĆ", "NAUKA", "UCZEŃ"]
+    },
+    "hint": {
+      "en": "The word is related to gaining knowledge.",
+      "pl": "Słowo wiąże się z zdobywaniem wiedzy."
+    }
+  },
+  {
+    "type": "image",
+    "name": {
+      "en": "Island",
+      "pl": "Wyspa"
+    },
+    "imageAsset": "assets/crete.png",
+    "answer": {
+      "en": "Crete",
+      "pl": "Kreta"
+    },
+    "hint": {
+      "en": "todo",
+      "pl": "todo"
+    }
+  },
+  {
+    "type": "text",
+    "name": {
+      "en": "Coordinates",
+      "pl": "Współrzędne"
+    },
+    "question": {
+      "en": "50.792\n15.513",
+      "pl": "50.792\n15.513"
+    },
+    "answer": {
+      "en": "storm",
+      "pl": "burza"
+    },
+    "hint": {
+      "en": "What could happen there?",
+      "pl": "Co tam można spotkać?"
+    }
+  },
+  {
+    "type": "jumper",
+    "name": {
+      "en": "Jumper",
+      "pl": "Skoczek"
+    },
+    "hint": {
+      "en": "There can be only one.",
+      "pl": "Może zostać tylko jeden."
+    }
+  },
+  {
+    "type": "text",
+    "name": {
+      "en": "Associations",
+      "pl": "Skojarzenia"
+    },
+    "question": {
+      "en": "Ponta de São Lourenço\nCR7\nCarros de Cesto do Monte\nPastéis de nata",
+      "pl": "Ponta de São Lourenço\nCR7\nCarros de Cesto do Monte\nPastéis de nata"
+    },
+    "answer": {
+      "en": "Madeira",
+      "pl": "Madera"
+    },
+    "hint": {
+      "en": "Where is it?",
+      "pl": "Gdzie to jest?"
+    }
+  },
+  {
+    "type": "lights_out",
+    "name": {
+      "en": "Lights Out",
+      "pl": "Zgaś światła"
+    },
+    "hint": {
+      "en": "Turn all the lights off",
+      "pl": "Zgaś wszystkie światła"
     }
   },
   {
@@ -229,141 +327,30 @@
     }
   },
   {
-    "type": "jumper",
-    "name": {
-      "en": "Jumper",
-      "pl": "Skoczek"
-    },
-    "hint": {
-      "en": "There can be only one.",
-      "pl": "Może zostać tylko jeden."
-    }
-  },
-  {
     "type": "image",
     "name": {
-      "en": "Song",
-      "pl": "Piosenka"
+      "en": "Intercom",
+      "pl": "Domofon"
     },
-    "imageAsset": "assets/rhcp.png",
+    "imageAsset": "assets/code.png",
     "answer": {
-      "en": "otherside",
-      "pl": "otherside"
+      "en": "6580",
+      "pl": "6580"
     },
     "hint": {
-      "en": "Good for karaoke",
-      "pl": "Dobre na karaoke"
+      "en": "31 🔑 _ _ _ _",
+      "pl": "31 🔑 _ _ _ _"
     }
   },
   {
-    "type": "image",
+    "type": "rummy",
     "name": {
-      "en": "Island",
-      "pl": "Wyspa"
-    },
-    "imageAsset": "assets/crete.png",
-    "answer": {
-      "en": "Crete",
-      "pl": "Kreta"
+      "en": "Rummy",
+      "pl": "Remik"
     },
     "hint": {
-      "en": "todo",
-      "pl": "todo"
-    }
-  },
-  {
-    "type": "text",
-    "name": {
-      "en": "Associations",
-      "pl": "Skojarzenia"
-    },
-    "question": {
-      "en": "Ponta de São Lourenço\nCR7\nCarros de Cesto do Monte\nPastéis de nata",
-      "pl": "Ponta de São Lourenço\nCR7\nCarros de Cesto do Monte\nPastéis de nata"
-    },
-    "answer": {
-      "en": "Madeira",
-      "pl": "Madera"
-    },
-    "hint": {
-      "en": "Where is it?",
-      "pl": "Gdzie to jest?"
-    }
-  },
-  {
-    "type": "text",
-    "name": {
-      "en": "Numbers",
-      "pl": "Liczby"
-    },
-    "question": {
-      "en": "84 114 117 102 108 97",
-      "pl": "84 114 117 102 108 97"
-    },
-    "answer": {
-      "en": "trufla",
-      "pl": "trufla"
-    },
-    "hint": {
-      "en": "ASCII",
-      "pl": "ASCII"
-    }
-  },
-  {
-    "type": "fill_all",
-    "name": {
-      "en": "Fill All",
-      "pl": "Wypełnij"
-    },
-    "hint": {
-      "en": "Fill All Tiles.",
-      "pl": "Wypełnij wszystkie kafelki."
-    }
-  },
-  {
-    "type": "memory",
-    "name": {
-      "en": "Memory",
-      "pl": "Pamięć"
-    },
-    "hint": {
-      "en": "Watch the sequence and repeat it back.",
-      "pl": "Obserwuj sekwencję i powtórz ją."
-    }
-  },
-  {
-    "type": "tetris",
-    "name": {
-      "en": "Tetris",
-      "pl": "Tetris"
-    },
-    "hint": {
-      "en": "Fill the board with all pieces.",
-      "pl": "Wypełnij planszę wszystkimi elementami."
-    },
-    "unlockDate": "2026-04-30T00:00:00Z"
-  },
-  {
-    "type": "free_the_dog",
-    "name": {
-      "en": "Free The Dog",
-      "pl": "Uwolnij psa"
-    },
-    "hint": {
-      "en": "Maybe the dog likes the dark.",
-      "pl": "Może pies lubi ciemność."
-    },
-    "themeMode": "light"
-  },
-  {
-    "type": "connect_pairs",
-    "name": {
-      "en": "Connect Pairs",
-      "pl": "Połącz pary"
-    },
-    "hint": {
-      "en": "Select a color by tapping one of its colored tiles.",
-      "pl": "Wybierz kolor, klikając na jeden z jego kolorowych kafelków."
+      "en": "You can finish it",
+      "pl": "Możesz to skończyć"
     }
   },
   {
@@ -386,25 +373,14 @@
     }
   },
   {
-    "type": "nonogram",
+    "type": "tetris",
     "name": {
-      "en": "Nonogram",
-      "pl": "Nonogram"
+      "en": "Tetris",
+      "pl": "Tetris"
     },
     "hint": {
-      "en": "Follow the numbers.",
-      "pl": "Podążaj za numerami."
-    }
-  },
-  {
-    "type": "lights_out",
-    "name": {
-      "en": "Lights Out",
-      "pl": "Zgaś światła"
-    },
-    "hint": {
-      "en": "Turn all the lights off",
-      "pl": "Zgaś wszystkie światła"
+      "en": "Fill the board with all pieces.",
+      "pl": "Wypełnij planszę wszystkimi elementami."
     }
   },
   {
@@ -416,6 +392,59 @@
     "hint": {
       "en": "Fill the grid so that every row, column, and 3x3 box contains the digits 1 through 9 without repetition.",
       "pl": "Wypełnij siatkę tak, aby każdy wiersz, kolumna i kwadrat 3x3 zawierał cyfry od 1 do 9 bez powtórzeń."
+    }
+  },
+  {
+    "type": "text",
+    "name": {
+      "en": "Numbers",
+      "pl": "Liczby"
+    },
+    "question": {
+      "en": "84 114 117 102 108 97",
+      "pl": "84 114 117 102 108 97"
+    },
+    "answer": {
+      "en": "trufla",
+      "pl": "trufla"
+    },
+    "hint": {
+      "en": "ASCII",
+      "pl": "ASCII"
+    }
+  },
+  {
+    "type": "bomb_disposal",
+    "name": {
+      "en": "Bomb Disposal",
+      "pl": "Rozbrojenie bomb"
+    },
+    "hint": {
+      "en": "There are 7 bombs. Find all the safe spots.",
+      "pl": "Jest 7 bomb. Znajdź wszystkie bezpieczne miejsca."
+    }
+  },
+  {
+    "type": "compose",
+    "name": {
+      "en": "Compose",
+      "pl": "Składanka"
+    },
+    "imageAsset": "assets/poster.png",
+    "hint": {
+      "en": "Reconstruct the image.",
+      "pl": "Zrekonstruuj obraz."
+    }
+  },
+  {
+    "type": "trash_bin",
+    "name": {
+      "en": "Trash Bins",
+      "pl": "Kosze na śmieci"
+    },
+    "hint": {
+      "en": "What do we put out then?",
+      "pl": "Co wtedy wystawiamy?"
     }
   },
   {
@@ -432,31 +461,21 @@
   {
     "type": "text",
     "name": {
-      "en": "Coordinates",
-      "pl": "Współrzędne"
+      "en": "Test",
+      "pl": "Test"
     },
     "question": {
-      "en": "50.792\n15.513",
-      "pl": "50.792\n15.513"
+      "en": "Test",
+      "pl": "Test"
     },
     "answer": {
-      "en": "storm",
-      "pl": "burza"
+      "en": "test",
+      "pl": "test"
     },
     "hint": {
-      "en": "What could happen there?",
-      "pl": "Co tam można spotkać?"
-    }
-  },
-  {
-    "type": "bomb_disposal",
-    "name": {
-      "en": "Bomb Disposal",
-      "pl": "Rozbrojenie bomb"
+      "en": "test",
+      "pl": "test"
     },
-    "hint": {
-      "en": "There are 7 bombs. Find all the safe spots.",
-      "pl": "Jest 7 bomb. Znajdź wszystkie bezpieczne miejsca."
-    }
+    "unlockDate": "2026-05-12T00:00:00Z"
   }
 ]

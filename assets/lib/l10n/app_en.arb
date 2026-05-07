@@ -1,7 +1,6 @@
 {
-  "appTitle": "QPuzzles",
-  "puzzleGame": "Puzzle Game",
-  "puzzleMenu": "Puzzle Menu",
+  "appTitle": "40 Puzzles",
+  "puzzleMenu": "40 Puzzles",
   "currentPuzzle": "Current Puzzle",
   "hint": "Hint",
   "showHint": "Show Hint",
@@ -42,6 +41,7 @@
   "pleaseEnterWord": "Please enter a 5-letter word.",
   "shuffle": "Shuffle",
   "tapAnywhereToContinue": "Tap anywhere to continue",
+  "letsPlay": "Let's play a game",
   "correctBin": "✅ Correct!",
   "wrongBin": "❌ Wrong bin",
   "yellowBin": "Yellow bin",
