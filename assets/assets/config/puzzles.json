@@ -44,7 +44,7 @@
       "pl": "Wypełnij"
     },
     "hint": {
-      "en": "Fill All Tiles.",
+      "en": "Fill all tiles.",
       "pl": "Wypełnij wszystkie kafelki."
     }
   },
@@ -55,7 +55,7 @@
       "pl": "Uwolnij psa"
     },
     "hint": {
-      "en": "Free the gog.",
+      "en": "Free the dog.",
       "pl": "Uwolnij psa."
     },
     "themeMode": "light"
@@ -212,7 +212,7 @@
     },
     "hint": {
       "en": "The word is related to gaining knowledge.",
-      "pl": "Słowo wiąże się z zdobywaniem wiedzy."
+      "pl": "Słowo wiąże się ze zdobywaniem wiedzy."
     }
   },
   {
