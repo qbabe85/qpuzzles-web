@@ -1,19 +1,51 @@
 [
   {
     "type": "text",
-    "name": "Text Puzzle",
-    "question": "Who is playing?",
-    "answer": "Natalia",
-    "hint": "The answer is a person's name."
+    "name": {
+      "en": "Init",
+      "pl": "Start"
+    },
+    "question": {
+      "en": "Who is playing?",
+      "pl": "Kto gra?"
+    },
+    "answer": {
+      "en": "Natalia",
+      "pl": "Natalia"
+    },
+    "hint": {
+      "en": "Please introduce yourself.",
+      "pl": "Przedstaw się proszę."
+    }
   },
   {
-    "type": "trash_bin",
-    "name": "TrashBinPuzzle",
-    "hint": "Match the shown date to the right bin color."
+    "type": "text",
+    "name": {
+      "en": "Birthday",
+      "pl": "Urodziny"
+    },
+    "question": {
+      "en": "2208\n\nhas birthday as well",
+      "pl": "2208\n\nteż ma urodziny"
+    },
+    "answer": {
+      "en": "Dua Lipa",
+      "pl": "Dua Lipa"
+    },
+    "hint": {
+      "en": "One kiss is all it takes.",
+      "pl": "Jeden pocałunek to wszystko co trzeba."
+    }
   },
   {
-    "type": "night_level",
-    "name": "NightLevelPuzzle",
-    "hint": "It only reveals itself at night."
+    "type": "fill_all",
+    "name": {
+      "en": "Fill All",
+      "pl": "Wypełnij"
+    },
+    "hint": {
+      "en": "Fill all tiles.",
+      "pl": "Wypełnij wszystkie kafelki."
+    }
   }
 ]
