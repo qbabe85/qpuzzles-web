@@ -459,23 +459,20 @@
     }
   },
   {
-    "type": "text",
+    "type": "scratch",
     "name": {
-      "en": "Test",
-      "pl": "Test"
+      "en": "Scratch Card",
+      "pl": "Zdrapka"
     },
-    "question": {
-      "en": "Test",
-      "pl": "Test"
-    },
+    "imageAsset": "assets/scratch.png",
     "answer": {
       "en": "test",
       "pl": "test"
     },
     "hint": {
-      "en": "test",
-      "pl": "test"
+      "en": "Scratch the surface to reveal what's hidden.",
+      "pl": "Zdrap powierzchnię, aby odkryć ukryty obraz."
     },
-    "unlockDate": "2026-05-12T00:00:00Z"
+    "unlockDate": "2026-05-30T00:00:00Z"
   }
 ]

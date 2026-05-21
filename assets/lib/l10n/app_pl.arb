@@ -29,7 +29,7 @@
   "tryAgain": "❌ Spróbuj ponownie",
   "submit": "Zatwierdź",
   "puzzleSolved": "🎉 Puzzle rozwiązane!",
-  "crashed": "Rozbite!",
+  "crashed": "Kolizja!",
   "retry": "Spróbuj ponownie",
   "yourTurn": "Twoja kolej! Powtórz sekwencję.",
   "roundX": "Runda {{round}}!",
