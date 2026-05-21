@@ -459,6 +459,21 @@
     }
   },
   {
+    "type": "hangman",
+    "name": {
+      "en": "Hangman",
+      "pl": "Wisielec"
+    },
+    "sentence": {
+      "en": "mezzanine in a garden house",
+      "pl": "antresola na działce"
+    },
+    "hint": {
+      "en": "Guess before you hang.",
+      "pl": "Odgadnij zanim zawiśniesz."
+    }
+  },
+  {
     "type": "scratch",
     "name": {
       "en": "Scratch Card",
