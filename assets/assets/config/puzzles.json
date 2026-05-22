@@ -103,8 +103,8 @@
         "Marty travelled there in time"
       ],
       "pl": [
-        "Zawsze jest przed tobą, nigdy za",
-        "Nie istnieje teraz — zawsze dopiero nadejdzie",
+        "Zawsze jest przed tobą",
+        "Kiedy nadejdzie, zmienia swoje imię",
         "Choć jest przed tobą, nigdy jej nie zobaczysz"
       ]
     },
@@ -469,8 +469,8 @@
       "pl": "antresola na działce"
     },
     "hint": {
-      "en": "Guess before you hang.",
-      "pl": "Odgadnij zanim zawiśniesz."
+      "en": "Go where the riddle leads.",
+      "pl": "Udaj się tam gdzie prowadzi zagadka."
     }
   },
   {
