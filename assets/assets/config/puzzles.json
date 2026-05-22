@@ -485,9 +485,29 @@
       "pl": "test"
     },
     "hint": {
-      "en": "Scratch the surface to reveal what's hidden.",
-      "pl": "Zdrap powierzchnię, aby odkryć ukryty obraz."
+      "en": "Find what is hidden.",
+      "pl": "Znajdź to co ukryte."
     },
     "unlockDate": "2026-05-30T00:00:00Z"
+  },
+  {
+    "type": "layers",
+    "name": {
+      "en": "Layers",
+      "pl": "Warstwy"
+    },
+    "layerAssets": [
+      "assets/layers/volvo_blue.png",
+      "assets/layers/volvo_green.png",
+      "assets/layers/volvo_red.png"
+    ],
+    "answer": {
+      "en": "volvo",
+      "pl": "volvo"
+    },
+    "hint": {
+      "en": "You will find your reward there.",
+      "pl": "Tam znajdziesz nagrodę."
+    }
   }
 ]
