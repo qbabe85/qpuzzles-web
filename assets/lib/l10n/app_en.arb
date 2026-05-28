@@ -50,5 +50,8 @@
   "brownBin": "Brown bin",
   "blackBin": "Black bin",
   "watchCarefully": "Watch carefully...",
-  "roundXofY": "Round {{current}} of {{total}}"
+  "roundXofY": "Round {{current}} of {{total}}",
+  "tapToPlay": "Tap to play",
+  "playing": "Playing...",
+  "typeAnswer": "Type your answer"
 }

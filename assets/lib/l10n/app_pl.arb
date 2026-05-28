@@ -50,5 +50,8 @@
   "brownBin": "Brązowy kosz",
   "blackBin": "Czarny kosz",
   "watchCarefully": "Patrz uważnie...",
-  "roundXofY": "Runda {{current}} z {{total}}"
+  "roundXofY": "Runda {{current}} z {{total}}",
+  "tapToPlay": "Kliknij, aby odtworzyć",
+  "playing": "Odtwarzanie...",
+  "typeAnswer": "Wpisz odpowiedź"
 }

@@ -459,6 +459,22 @@
     }
   },
   {
+    "type": "sound",
+    "name": {
+      "en": "Sound",
+      "pl": "Dźwięki"
+    },
+    "soundAsset": "skeleton.m4a",
+    "answer": {
+      "en": "skeleton",
+      "pl": "kościotrup"
+    },
+    "hint": {
+      "en": "Listen carefully to the sound.",
+      "pl": "Słuchaj uważnie dźwięku."
+    }
+  },
+  {
     "type": "hangman",
     "name": {
       "en": "Hangman",
@@ -488,7 +504,7 @@
       "en": "Find what is hidden.",
       "pl": "Znajdź to co ukryte."
     },
-    "unlockDate": "2026-05-30T00:00:00Z"
+    "unlockDate": "2026-06-04T00:00:00Z"
   },
   {
     "type": "layers",
