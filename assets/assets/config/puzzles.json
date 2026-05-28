@@ -356,20 +356,20 @@
   {
     "type": "text",
     "name": {
-      "en": "Riddle",
-      "pl": "Zagadka"
+      "en": "Words",
+      "pl": "Słowa"
     },
     "question": {
-      "en": "I speak without a mouth and hear without ears. What am I?",
-      "pl": "Mówię bez ust i słyszę bez uszu. Czym jestem?"
+      "en": "Go hang a salami, I'm a lasagna hog\nSatan, oscillate my metallic sonatas",
+      "pl": "Wół utył i ma miły tułów\nŁapał za kran, a kanarka złapał"
     },
     "answer": {
       "en": "echo",
       "pl": "echo"
     },
     "hint": {
-      "en": "It's a reflection of sound.",
-      "pl": "To odbicie dźwięku."
+      "en": "palindrome",
+      "pl": "palindrom"
     }
   },
   {
@@ -472,6 +472,17 @@
     "hint": {
       "en": "Listen carefully to the sound.",
       "pl": "Słuchaj uważnie dźwięku."
+    }
+  },
+  {
+    "type": "reflex",
+    "name": {
+      "en": "Reflex",
+      "pl": "Refleks"
+    },
+    "hint": {
+      "en": "Stop all pointers.",
+      "pl": "Zatrzymaj wszystkie wskaźniki."
     }
   },
   {

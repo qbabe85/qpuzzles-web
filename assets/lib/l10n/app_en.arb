@@ -34,6 +34,7 @@
   "yourTurn": "Your turn! Repeat the sequence.",
   "roundX": "Round {{round}}!",
   "wrongStartingOver": "Wrong! Starting over from round 1.",
+  "reflexFailedRestart": "Missed! All indicators restart.",
   "excellentMemory": "You have an excellent memory!",
   "nightLevel": "Night level",
   "selectedColor": "Selected color: ",

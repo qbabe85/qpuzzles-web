@@ -34,6 +34,7 @@
   "yourTurn": "Twoja kolej! Powtórz sekwencję.",
   "roundX": "Runda {{round}}!",
   "wrongStartingOver": "Źle! Zaczamy od rundy 1.",
+  "reflexFailedRestart": "Pudło! Wszystkie wskaźniki startują od nowa.",
   "excellentMemory": "Masz doskonałą pamięć!",
   "nightLevel": "Poziom nocny",
   "selectedColor": "Wybrany kolor: ",
