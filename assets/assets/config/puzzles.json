@@ -364,12 +364,12 @@
       "pl": "Wół utył i ma miły tułów\nŁapał za kran, a kanarka złapał"
     },
     "answer": {
-      "en": "echo",
-      "pl": "echo"
-    },
-    "hint": {
       "en": "palindrome",
       "pl": "palindrom"
+    },
+    "hint": {
+      "en": "level",
+      "pl": "sedes"
     }
   },
   {
