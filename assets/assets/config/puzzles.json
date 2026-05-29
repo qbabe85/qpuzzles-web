@@ -486,6 +486,17 @@
     }
   },
   {
+    "type": "akari",
+    "name": {
+      "en": "Akari",
+      "pl": "Akari"
+    },
+    "hint": {
+      "en": "Place bulbs so every white cell is lit. Numbers count adjacent bulbs.",
+      "pl": "Oświetl każde białe pole. Cyfry oznaczają ilość sąsiadujących żarówek."
+    }
+  },
+  {
     "type": "hangman",
     "name": {
       "en": "Hangman",
