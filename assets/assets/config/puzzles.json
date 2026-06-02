@@ -379,8 +379,8 @@
       "pl": "Tetris"
     },
     "hint": {
-      "en": "Fill the board with all pieces.",
-      "pl": "Wypełnij planszę wszystkimi elementami."
+      "en": "Hint#1 Fill the board with all pieces. Hint#2 Red square in the upper right corner.",
+      "pl": "Wskazówka#1 Wypełnij planszę elementami. Wskazówka#2 Czerwony kwadrat w górny prawy róg."
     }
   },
   {
@@ -390,8 +390,8 @@
       "pl": "Sudoku"
     },
     "hint": {
-      "en": "Fill the grid so that every row, column, and 3x3 box contains the digits 1 through 9 without repetition.",
-      "pl": "Wypełnij siatkę tak, aby każdy wiersz, kolumna i kwadrat 3x3 zawierał cyfry od 1 do 9 bez powtórzeń."
+      "en": "Fill the missing numbers.",
+      "pl": "Wypełnij brakujące liczby."
     }
   },
   {
@@ -454,8 +454,8 @@
       "pl": "Uciekający wzór"
     },
     "hint": {
-      "en": "Restore the pattern.",
-      "pl": "Przywróć zaznaczony wzór."
+      "en": "When you select a row, the others will move. (13/25/PL/14/14)",
+      "pl": "Gdy zaznaczasz wiersz, inne uciekają. (13/25/23/14/EN)"
     }
   },
   {
@@ -537,7 +537,7 @@
       "en": "Find what is hidden.",
       "pl": "Znajdź to co ukryte."
     },
-    "unlockDate": "2026-06-04T00:00:00Z"
+    "unlockDate": "2026-06-10T00:00:00Z"
   },
   {
     "type": "layers",
