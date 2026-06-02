@@ -557,6 +557,7 @@
     "hint": {
       "en": "You will find your reward there.",
       "pl": "Tam znajdziesz nagrodę."
-    }
+    },
+    "unlockCode": "1234"
   }
 ]
