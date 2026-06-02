@@ -54,5 +54,6 @@
   "roundXofY": "Round {{current}} of {{total}}",
   "tapToPlay": "Tap to play",
   "playing": "Playing...",
-  "typeAnswer": "Type your answer"
+  "typeAnswer": "Type your answer",
+  "pathPuzzleBoom": "💥"
 }

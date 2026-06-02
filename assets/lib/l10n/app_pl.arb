@@ -54,5 +54,6 @@
   "roundXofY": "Runda {{current}} z {{total}}",
   "tapToPlay": "Kliknij, aby odtworzyć",
   "playing": "Odtwarzanie...",
-  "typeAnswer": "Wpisz odpowiedź"
+  "typeAnswer": "Wpisz odpowiedź",
+  "pathPuzzleBoom": "💥"
 }

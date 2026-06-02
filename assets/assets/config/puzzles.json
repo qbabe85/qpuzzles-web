@@ -486,6 +486,17 @@
     }
   },
   {
+    "type": "path",
+    "name": {
+      "en": "Path",
+      "pl": "Ścieżka"
+    },
+    "hint": {
+      "en": "Memorize bomb locations and find a safe way to exit.",
+      "pl": "Zapamiętaj pozycje bomb i znajdź bezpieczną drogę do wyjścia."
+    }
+  },
+  {
     "type": "akari",
     "name": {
       "en": "Akari",
