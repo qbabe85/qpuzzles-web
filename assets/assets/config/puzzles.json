@@ -55,8 +55,8 @@
       "pl": "Uwolnij psa"
     },
     "hint": {
-      "en": "Free the dog.",
-      "pl": "Uwolnij psa."
+      "en": "Maybe the dog likes the dark.",
+      "pl": "Może pies lubi ciemność."
     },
     "themeMode": "light"
   },
@@ -211,8 +211,8 @@
       "pl": ["UCZYĆ", "NAUKA", "UCZEŃ"]
     },
     "hint": {
-      "en": "The word is related to gaining knowledge.",
-      "pl": "Słowo wiąże się ze zdobywaniem wiedzy."
+      "en": "\"The beautiful thing about learning is that no one can take it away from you.\"",
+      "pl": "\"Nauka to pokarm dla rozumu.\""
     }
   },
   {
@@ -227,8 +227,8 @@
       "pl": "Kreta"
     },
     "hint": {
-      "en": "todo",
-      "pl": "todo"
+      "en": "First island.",
+      "pl": "Pierwsza wyspa."
     }
   },
   {
@@ -349,8 +349,8 @@
       "pl": "Remik"
     },
     "hint": {
-      "en": "You can finish it",
-      "pl": "Możesz to skończyć"
+      "en": "You like it and you can finish it.",
+      "pl": "Lubisz to i możesz to skończyć."
     }
   },
   {
@@ -470,8 +470,8 @@
       "pl": "kościotrup"
     },
     "hint": {
-      "en": "Listen carefully to the sound.",
-      "pl": "Słuchaj uważnie dźwięku."
+      "en": "Listen carefully.",
+      "pl": "Słuchaj uważnie."
     }
   },
   {
