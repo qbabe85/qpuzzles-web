@@ -523,39 +523,6 @@
     }
   },
   {
-    "type": "image",
-    "name": {
-      "en": "Phone",
-      "pl": "Telefon"
-    },
-    "imageAsset": "assets/math.png",
-    "answer": {
-      "en": "xxxx",
-      "pl": "xxxx"
-    },
-    "hint": {
-      "en": "Call this number.",
-      "pl": "Zadzwoń pod ten numer."
-    },
-    "unlockDate": "2026-06-20T00:00:00Z"
-  },
-  {
-    "type": "scratch",
-    "name": {
-      "en": "Scratch Card",
-      "pl": "Zdrapka"
-    },
-    "imageAsset": "assets/scratch.png",
-    "answer": {
-      "en": "test",
-      "pl": "test"
-    },
-    "hint": {
-      "en": "Find what is hidden.",
-      "pl": "Znajdź to co ukryte."
-    }
-  },
-  {
     "type": "layers",
     "name": {
       "en": "Layers",
@@ -573,6 +540,58 @@
     "hint": {
       "en": "You will find your reward there.",
       "pl": "Tam znajdziesz nagrodę."
+    }
+  },
+  {
+    "type": "image",
+    "name": {
+      "en": "Phone",
+      "pl": "Telefon"
+    },
+    "imageAsset": "assets/math.png",
+    "answer": {
+      "en": "xxxx",
+      "pl": "xxxx"
+    },
+    "hint": {
+      "en": "📞 Call this number.",
+      "pl": "📞 Zadzwoń pod ten numer."
+    },
+    "unlockDate": "2026-06-20T00:00:00Z"
+  },
+  {
+    "type": "text",
+    "name": {
+      "en": "Matchmaker",
+      "pl": "Swatka"
+    },
+    "question": {
+      "en": "Ask the matchmaker for a riddle",
+      "pl": "Po zagadkę zapytaj swatkę"
+    },
+    "answer": {
+      "en": "xxxx",
+      "pl": "xxxx"
+    },
+    "hint": {
+      "en": "📞",
+      "pl": "📞"
+    }
+  },
+  {
+    "type": "scratch",
+    "name": {
+      "en": "Scratch Card",
+      "pl": "Zdrapka"
+    },
+    "imageAsset": "assets/scratch.png",
+    "answer": {
+      "en": "test",
+      "pl": "test"
+    },
+    "hint": {
+      "en": "Find what is hidden.",
+      "pl": "Znajdź to co ukryte."
     },
     "unlockCode": "1234"
   }
