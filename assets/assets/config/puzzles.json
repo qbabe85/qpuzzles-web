@@ -395,22 +395,19 @@
     }
   },
   {
-    "type": "text",
+    "type": "image",
     "name": {
-      "en": "Numbers",
-      "pl": "Liczby"
+      "en": "Glagolitic",
+      "pl": "Głagolica"
     },
-    "question": {
-      "en": "84 114 117 102 108 97",
-      "pl": "84 114 117 102 108 97"
-    },
+    "imageAsset": "assets/glagocode.png",
     "answer": {
       "en": "trufla",
       "pl": "trufla"
     },
     "hint": {
-      "en": "ASCII",
-      "pl": "ASCII"
+      "en": "[click](https://raw.githubusercontent.com/qbabe85/qpuzzles-web/refs/heads/main/assets/assets/glagolica.png)",
+      "pl": "[kliknij](https://raw.githubusercontent.com/qbabe85/qpuzzles-web/refs/heads/main/assets/assets/glagolica.png)"
     }
   },
   {
