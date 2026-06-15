@@ -59,5 +59,6 @@
   "tapToPlay": "Tap to play",
   "playing": "Playing...",
   "typeAnswer": "Type your answer",
-  "pathPuzzleBoom": "💥"
+  "pathPuzzleBoom": "💥",
+  "movesLeft": "Moves left: {{count}}"
 }

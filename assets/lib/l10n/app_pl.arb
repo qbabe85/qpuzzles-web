@@ -59,5 +59,6 @@
   "tapToPlay": "Kliknij, aby odtworzyć",
   "playing": "Odtwarzanie...",
   "typeAnswer": "Wpisz odpowiedź",
-  "pathPuzzleBoom": "💥"
+  "pathPuzzleBoom": "💥",
+  "movesLeft": "Pozostało ruchów: {{count}}"
 }

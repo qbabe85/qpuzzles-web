@@ -429,8 +429,8 @@
     },
     "imageAsset": "assets/poster.png",
     "hint": {
-      "en": "Reconstruct the image.",
-      "pl": "Zrekonstruuj obraz."
+      "en": "Reconstruct the image in 15 moves.",
+      "pl": "Zrekonstruuj obraz w 15 ruchach."
     }
   },
   {
