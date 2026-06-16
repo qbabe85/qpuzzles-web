@@ -308,25 +308,6 @@
     }
   },
   {
-    "type": "text",
-    "name": {
-      "en": "Hobbit",
-      "pl": "Hobbit"
-    },
-    "question": {
-      "en": "A box without hinges, key, or lid, yet golden treasure inside is hid.",
-      "pl": "skrzynia bez zawiasów, klucza i pokrywy, lecz złocisty w środku skarb kryje prawdziwy"
-    },
-    "answer": {
-      "en": "egg",
-      "pl": "jajko"
-    },
-    "hint": {
-      "en": "Riddles in the Dark.",
-      "pl": "Czyli tam i z powrotem."
-    }
-  },
-  {
     "type": "image",
     "name": {
       "en": "Intercom",
@@ -425,7 +406,7 @@
     "type": "compose",
     "name": {
       "en": "Compose",
-      "pl": "Składanka"
+      "pl": "Układanka"
     },
     "imageAsset": "assets/poster.png",
     "hint": {
@@ -573,6 +554,25 @@
     "hint": {
       "en": "📞 Touch it, hold it and call the right person",
       "pl": "📞 Dotknij, przytrzymaj i zadzwoń do odpowiedniej osoby"
+    }
+  },
+  {
+    "type": "siren",
+    "name": {
+      "en": "Emergency",
+      "pl": "Interwencja"
+    },
+    "question": {
+      "en": "CALL THE PARAMEDIC",
+      "pl": "DZWOŃ DO RATOWNIKA"
+    },
+    "answer": {
+      "en": "xxxx",
+      "pl": "xxxx"
+    },
+    "hint": {
+      "en": "📞 Another phone call for help",
+      "pl": "📞 Kolejny telefon po pomoc"
     }
   },
   {
