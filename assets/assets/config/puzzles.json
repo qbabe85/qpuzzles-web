@@ -535,7 +535,7 @@
       "en": "📞 Call this number.",
       "pl": "📞 Zadzwoń pod ten numer."
     },
-    "unlockDate": "2026-06-20T00:00:00Z"
+    "unlockCode": "3737"
   },
   {
     "type": "touch",
@@ -590,6 +590,6 @@
       "en": "Find what is hidden.",
       "pl": "Znajdź to co ukryte."
     },
-    "unlockCode": "1234"
+    "unlockDate": "2026-06-18T00:00:00Z"
   }
 ]
