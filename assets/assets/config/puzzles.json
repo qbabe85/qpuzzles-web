@@ -557,7 +557,7 @@
     "unlockDate": "2026-06-20T00:00:00Z"
   },
   {
-    "type": "text",
+    "type": "touch",
     "name": {
       "en": "Matchmaker",
       "pl": "Swatka"
@@ -571,8 +571,8 @@
       "pl": "xxxx"
     },
     "hint": {
-      "en": "📞",
-      "pl": "📞"
+      "en": "📞 Touch it, hold it and call the right person",
+      "pl": "📞 Dotknij, przytrzymaj i zadzwoń do odpowiedniej osoby"
     }
   },
   {
