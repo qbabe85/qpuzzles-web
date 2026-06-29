@@ -80,42 +80,32 @@
     }
   },
   {
-    "type": "arrows",
+    "type": "jumper",
     "name": {
-      "en": "Arrows",
-      "pl": "Strzałki"
+      "en": "Jumper",
+      "pl": "Skoczek"
     },
     "hint": {
-      "en": "Get rid of the arrows.",
-      "pl": "Pozbądź się strzałek."
+      "en": "There can be only one.",
+      "pl": "Może zostać tylko jeden."
     }
   },
   {
-    "type": "language_hints",
+    "type": "image",
     "name": {
-      "en": "Language Hints",
-      "pl": "Językowe Podpowiedzi"
+      "en": "Phone",
+      "pl": "Telefon"
     },
-    "hints": {
-      "en": [
-        "It is not a physical object",
-        "It's always coming, but never arrives",
-        "Marty travelled there in time"
-      ],
-      "pl": [
-        "Zawsze jest przed tobą",
-        "Kiedy nadejdzie, zmienia swoje imię",
-        "Choć jest przed tobą, nigdy jej nie zobaczysz"
-      ]
-    },
+    "imageAsset": "assets/math.png",
     "answer": {
-      "en": "Future",
-      "pl": "Przyszłość"
+      "en": "strużnica",
+      "pl": "strużnica"
     },
     "hint": {
-      "en": "Maybe try it in Polish",
-      "pl": "Może spróbuj po angielsku"
-    }
+      "en": "📞 Call this number.",
+      "pl": "📞 Zadzwoń pod ten numer."
+    },
+    "unlockCode": "3737"
   },
   {
     "type": "memory",
@@ -148,14 +138,29 @@
     }
   },
   {
-    "type": "nonogram",
+    "type": "arrows",
     "name": {
-      "en": "Nonogram",
-      "pl": "Nonogram"
+      "en": "Arrows",
+      "pl": "Strzałki"
     },
     "hint": {
-      "en": "Follow the heart or the numbers.",
-      "pl": "Podążaj za sercem albo numerami."
+      "en": "Get rid of the arrows.",
+      "pl": "Pozbądź się strzałek."
+    }
+  },
+  {
+    "type": "word_guess",
+    "name": {
+      "en": "Word Guess",
+      "pl": "Literalnie"
+    },
+    "words": {
+      "en": ["LEARN", "STUDY", "TEACH"],
+      "pl": ["UCZYĆ", "NAUKA", "UCZEŃ"]
+    },
+    "hint": {
+      "en": "\"The beautiful thing about learning is that no one can take it away from you.\"",
+      "pl": "\"Nauka to pokarm dla rozumu.\""
     }
   },
   {
@@ -174,14 +179,22 @@
     }
   },
   {
-    "type": "connect_pairs",
+    "type": "touch",
     "name": {
-      "en": "Connect Pairs",
-      "pl": "Połącz pary"
+      "en": "Matchmaker",
+      "pl": "Swatka"
+    },
+    "question": {
+      "en": "Ask the matchmaker for a riddle",
+      "pl": "O zagadkę zapytaj swatkę"
+    },
+    "answer": {
+      "en": "xxxx",
+      "pl": "xxxx"
     },
     "hint": {
-      "en": "Select a color by tapping one of its colored tiles.",
-      "pl": "Wybierz kolor, klikając na jeden z jego kolorowych kafelków."
+      "en": "📞 Touch it, hold it and call the right person.",
+      "pl": "📞 Dotknij, przytrzymaj i zadzwoń do odpowiedniej osoby."
     }
   },
   {
@@ -201,18 +214,14 @@
     }
   },
   {
-    "type": "word_guess",
+    "type": "nonogram",
     "name": {
-      "en": "Word Guess",
-      "pl": "Literalnie"
-    },
-    "words": {
-      "en": ["LEARN", "STUDY", "TEACH"],
-      "pl": ["UCZYĆ", "NAUKA", "UCZEŃ"]
+      "en": "Nonogram",
+      "pl": "Nonogram"
     },
     "hint": {
-      "en": "\"The beautiful thing about learning is that no one can take it away from you.\"",
-      "pl": "\"Nauka to pokarm dla rozumu.\""
+      "en": "Follow the heart or the numbers.",
+      "pl": "Podążaj za sercem albo numerami."
     }
   },
   {
@@ -251,14 +260,14 @@
     }
   },
   {
-    "type": "jumper",
+    "type": "connect_pairs",
     "name": {
-      "en": "Jumper",
-      "pl": "Skoczek"
+      "en": "Connect Pairs",
+      "pl": "Połącz pary"
     },
     "hint": {
-      "en": "There can be only one.",
-      "pl": "Może zostać tylko jeden."
+      "en": "Select a color by tapping one of its colored tiles.",
+      "pl": "Wybierz kolor, klikając na jeden z jego kolorowych kafelków."
     }
   },
   {
@@ -281,6 +290,26 @@
     }
   },
   {
+    "type": "layers",
+    "name": {
+      "en": "Layers",
+      "pl": "Warstwy"
+    },
+    "layerAssets": [
+      "assets/layers/volvo_blue.png",
+      "assets/layers/volvo_green.png",
+      "assets/layers/volvo_red.png"
+    ],
+    "answer": {
+      "en": "volvo",
+      "pl": "volvo"
+    },
+    "hint": {
+      "en": "You will find your reward there.",
+      "pl": "Tam znajdziesz nagrodę."
+    }
+  },
+  {
     "type": "lights_out",
     "name": {
       "en": "Lights Out",
@@ -292,19 +321,19 @@
     }
   },
   {
-    "type": "image",
+    "type": "sound",
     "name": {
-      "en": "Parking",
-      "pl": "Parking"
+      "en": "Sound",
+      "pl": "Dźwięki"
     },
-    "imageAsset": "assets/parking.png",
+    "soundAsset": "skeleton.m4a",
     "answer": {
-      "en": "87",
-      "pl": "87"
+      "en": "skeleton",
+      "pl": "kościotrup"
     },
     "hint": {
-      "en": "Where is the car parked?",
-      "pl": "Gdzie zaparkował?"
+      "en": "Listen carefully.",
+      "pl": "Słuchaj uważnie."
     }
   },
   {
@@ -335,22 +364,30 @@
     }
   },
   {
-    "type": "text",
+    "type": "path",
     "name": {
-      "en": "Words",
-      "pl": "Słowa"
-    },
-    "question": {
-      "en": "Go hang a salami, I'm a lasagna hog\nSatan, oscillate my metallic sonatas",
-      "pl": "Łapał za kran, a kanarka złapał\nWół utył i ma miły tułów"
-    },
-    "answer": {
-      "en": "palindrome",
-      "pl": "palindrom"
+      "en": "Path",
+      "pl": "Ścieżka"
     },
     "hint": {
-      "en": "level",
-      "pl": "sedes"
+      "en": "Memorize bomb locations and find a safe way to exit.",
+      "pl": "Zapamiętaj pozycje bomb i znajdź bezpieczną drogę do wyjścia."
+    }
+  },
+  {
+    "type": "image",
+    "name": {
+      "en": "Parking",
+      "pl": "Parking"
+    },
+    "imageAsset": "assets/parking.png",
+    "answer": {
+      "en": "87",
+      "pl": "87"
+    },
+    "hint": {
+      "en": "Where is the car parked?",
+      "pl": "Gdzie zaparkował?"
     }
   },
   {
@@ -362,17 +399,6 @@
     "hint": {
       "en": "Hint#1 Fill the board with all pieces. Hint#2 Red square in the upper right corner.",
       "pl": "Wskazówka#1 Wypełnij planszę elementami. Wskazówka#2 Czerwony kwadrat w górny prawy róg."
-    }
-  },
-  {
-    "type": "sudoku",
-    "name": {
-      "en": "Sudoku ",
-      "pl": "Sudoku"
-    },
-    "hint": {
-      "en": "Fill the missing numbers.",
-      "pl": "Wypełnij brakujące liczby."
     }
   },
   {
@@ -389,171 +415,6 @@
     "hint": {
       "en": "[click](https://raw.githubusercontent.com/qbabe85/qpuzzles-web/refs/heads/main/assets/assets/glagolica.png)",
       "pl": "[kliknij](https://raw.githubusercontent.com/qbabe85/qpuzzles-web/refs/heads/main/assets/assets/glagolica.png)"
-    }
-  },
-  {
-    "type": "bomb_disposal",
-    "name": {
-      "en": "Bomb Disposal",
-      "pl": "Rozbrojenie bomb"
-    },
-    "hint": {
-      "en": "There are 7 bombs. Find all the safe spots.",
-      "pl": "Jest 7 bomb. Znajdź wszystkie bezpieczne miejsca."
-    }
-  },
-  {
-    "type": "compose",
-    "name": {
-      "en": "Compose",
-      "pl": "Układanka"
-    },
-    "imageAsset": "assets/poster.png",
-    "hint": {
-      "en": "Reconstruct the image in 15 moves.",
-      "pl": "Zrekonstruuj obraz w 15 ruchach."
-    }
-  },
-  {
-    "type": "trash_bin",
-    "name": {
-      "en": "Trash Bins",
-      "pl": "Kosze na śmieci"
-    },
-    "hint": {
-      "en": "What do we put out then?",
-      "pl": "Co wtedy wystawiamy?"
-    }
-  },
-  {
-    "type": "pattern_shift",
-    "name": {
-      "en": "Pattern Shift",
-      "pl": "Uciekający wzór"
-    },
-    "hint": {
-      "en": "When you select a row, the others will move. (13/25/PL/14/14)",
-      "pl": "Gdy zaznaczasz wiersz, inne uciekają. (13/25/23/14/EN)"
-    }
-  },
-  {
-    "type": "sound",
-    "name": {
-      "en": "Sound",
-      "pl": "Dźwięki"
-    },
-    "soundAsset": "skeleton.m4a",
-    "answer": {
-      "en": "skeleton",
-      "pl": "kościotrup"
-    },
-    "hint": {
-      "en": "Listen carefully.",
-      "pl": "Słuchaj uważnie."
-    }
-  },
-  {
-    "type": "reflex",
-    "name": {
-      "en": "Reflex",
-      "pl": "Refleks"
-    },
-    "hint": {
-      "en": "Stop all pointers.",
-      "pl": "Zatrzymaj wszystkie wskaźniki."
-    }
-  },
-  {
-    "type": "path",
-    "name": {
-      "en": "Path",
-      "pl": "Ścieżka"
-    },
-    "hint": {
-      "en": "Memorize bomb locations and find a safe way to exit.",
-      "pl": "Zapamiętaj pozycje bomb i znajdź bezpieczną drogę do wyjścia."
-    }
-  },
-  {
-    "type": "akari",
-    "name": {
-      "en": "Akari",
-      "pl": "Akari"
-    },
-    "hint": {
-      "en": "Place bulbs so every white cell is lit. Numbers count adjacent bulbs.",
-      "pl": "Oświetl każde białe pole. Cyfry oznaczają ilość sąsiadujących żarówek."
-    }
-  },
-  {
-    "type": "hangman",
-    "name": {
-      "en": "Hangman",
-      "pl": "Wisielec"
-    },
-    "sentence": {
-      "en": "mezzanine in a garden house",
-      "pl": "antresola na działce"
-    },
-    "hint": {
-      "en": "Go where the riddle leads.",
-      "pl": "Udaj się tam gdzie prowadzi zagadka."
-    }
-  },
-  {
-    "type": "layers",
-    "name": {
-      "en": "Layers",
-      "pl": "Warstwy"
-    },
-    "layerAssets": [
-      "assets/layers/volvo_blue.png",
-      "assets/layers/volvo_green.png",
-      "assets/layers/volvo_red.png"
-    ],
-    "answer": {
-      "en": "volvo",
-      "pl": "volvo"
-    },
-    "hint": {
-      "en": "You will find your reward there.",
-      "pl": "Tam znajdziesz nagrodę."
-    }
-  },
-  {
-    "type": "image",
-    "name": {
-      "en": "Phone",
-      "pl": "Telefon"
-    },
-    "imageAsset": "assets/math.png",
-    "answer": {
-      "en": "strużnica",
-      "pl": "strużnica"
-    },
-    "hint": {
-      "en": "📞 Call this number.",
-      "pl": "📞 Zadzwoń pod ten numer."
-    },
-    "unlockCode": "3737"
-  },
-  {
-    "type": "touch",
-    "name": {
-      "en": "Matchmaker",
-      "pl": "Swatka"
-    },
-    "question": {
-      "en": "Ask the matchmaker for a riddle",
-      "pl": "O zagadkę zapytaj swatkę"
-    },
-    "answer": {
-      "en": "xxxx",
-      "pl": "xxxx"
-    },
-    "hint": {
-      "en": "📞 Touch it, hold it and call the right person.",
-      "pl": "📞 Dotknij, przytrzymaj i zadzwoń do odpowiedniej osoby."
     }
   },
   {
@@ -591,5 +452,144 @@
       "pl": "Znajdź to co ukryte."
     },
     "unlockDate": "2026-06-18T00:00:00Z"
+  },
+  {
+    "type": "sudoku",
+    "name": {
+      "en": "Sudoku ",
+      "pl": "Sudoku"
+    },
+    "hint": {
+      "en": "Fill the missing numbers.",
+      "pl": "Wypełnij brakujące liczby."
+    }
+  },
+  {
+    "type": "text",
+    "name": {
+      "en": "Words",
+      "pl": "Słowa"
+    },
+    "question": {
+      "en": "Go hang a salami, I'm a lasagna hog\nSatan, oscillate my metallic sonatas",
+      "pl": "Łapał za kran, a kanarka złapał\nWół utył i ma miły tułów"
+    },
+    "answer": {
+      "en": "palindrome",
+      "pl": "palindrom"
+    },
+    "hint": {
+      "en": "level",
+      "pl": "sedes"
+    }
+  },
+  {
+    "type": "bomb_disposal",
+    "name": {
+      "en": "Bomb Disposal",
+      "pl": "Rozbrojenie bomb"
+    },
+    "hint": {
+      "en": "There are 7 bombs. Find all the safe spots.",
+      "pl": "Jest 7 bomb. Znajdź wszystkie bezpieczne miejsca."
+    }
+  },
+  {
+    "type": "trash_bin",
+    "name": {
+      "en": "Trash Bins",
+      "pl": "Kosze na śmieci"
+    },
+    "hint": {
+      "en": "What do we put out then?",
+      "pl": "Co wtedy wystawiamy?"
+    }
+  },
+  {
+    "type": "reflex",
+    "name": {
+      "en": "Reflex",
+      "pl": "Refleks"
+    },
+    "hint": {
+      "en": "Stop all pointers.",
+      "pl": "Zatrzymaj wszystkie wskaźniki."
+    }
+  },
+  {
+    "type": "pattern_shift",
+    "name": {
+      "en": "Pattern Shift",
+      "pl": "Uciekający wzór"
+    },
+    "hint": {
+      "en": "When you select a row, the others will move. (13/25/PL/14/14)",
+      "pl": "Gdy zaznaczasz wiersz, inne uciekają. (13/25/23/14/EN)"
+    }
+  },
+  {
+    "type": "compose",
+    "name": {
+      "en": "Compose",
+      "pl": "Układanka"
+    },
+    "imageAsset": "assets/poster.png",
+    "hint": {
+      "en": "Reconstruct the image in 15 moves.",
+      "pl": "Zrekonstruuj obraz w 15 ruchach."
+    }
+  },
+  {
+    "type": "language_hints",
+    "name": {
+      "en": "Language Hints",
+      "pl": "Językowe Podpowiedzi"
+    },
+    "hints": {
+      "en": [
+        "It is not a physical object",
+        "It's always coming, but never arrives",
+        "Marty travelled there in time"
+      ],
+      "pl": [
+        "Zawsze jest przed tobą",
+        "Kiedy nadejdzie, zmienia swoje imię",
+        "Choć jest przed tobą, nigdy jej nie zobaczysz"
+      ]
+    },
+    "answer": {
+      "en": "Future",
+      "pl": "Przyszłość"
+    },
+    "hint": {
+      "en": "Maybe try it in Polish",
+      "pl": "Może spróbuj po angielsku"
+    }
+  },
+  {
+    "type": "akari",
+    "name": {
+      "en": "Akari",
+      "pl": "Akari"
+    },
+    "hint": {
+      "en": "Place bulbs so every white cell is lit. Numbers count adjacent bulbs.",
+      "pl": "Oświetl każde białe pole. Cyfry oznaczają ilość sąsiadujących żarówek."
+    }
+  },
+  {
+    "type": "hangman",
+    "name": {
+      "en": "Hangman",
+      "pl": "Wisielec"
+    },
+    "sentence": {
+      "en": "mezzanine in a garden house",
+      "pl": "antresola na działce"
+    },
+    "hint": {
+      "en": "Go where the riddle leads.",
+      "pl": "Udaj się tam gdzie prowadzi zagadka."
+    }
   }
 ]
