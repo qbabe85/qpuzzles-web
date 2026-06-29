@@ -104,8 +104,7 @@
     "hint": {
       "en": "📞 Call this number.",
       "pl": "📞 Zadzwoń pod ten numer."
-    },
-    "unlockCode": "3737"
+    }
   },
   {
     "type": "memory",
@@ -590,6 +589,7 @@
     "hint": {
       "en": "Go where the riddle leads.",
       "pl": "Udaj się tam gdzie prowadzi zagadka."
-    }
+    },
+    "unlockCode": "4040"
   }
 ]
