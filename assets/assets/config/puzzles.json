@@ -528,8 +528,8 @@
     },
     "imageAsset": "assets/math.png",
     "answer": {
-      "en": "xxxx",
-      "pl": "xxxx"
+      "en": "strużnica",
+      "pl": "strużnica"
     },
     "hint": {
       "en": "📞 Call this number.",
@@ -545,15 +545,15 @@
     },
     "question": {
       "en": "Ask the matchmaker for a riddle",
-      "pl": "Po zagadkę zapytaj swatkę"
+      "pl": "O zagadkę zapytaj swatkę"
     },
     "answer": {
       "en": "xxxx",
       "pl": "xxxx"
     },
     "hint": {
-      "en": "📞 Touch it, hold it and call the right person",
-      "pl": "📞 Dotknij, przytrzymaj i zadzwoń do odpowiedniej osoby"
+      "en": "📞 Touch it, hold it and call the right person.",
+      "pl": "📞 Dotknij, przytrzymaj i zadzwoń do odpowiedniej osoby."
     }
   },
   {
