@@ -154,8 +154,8 @@
       "pl": "Literalnie"
     },
     "words": {
-      "en": ["LEARN", "STUDY", "TEACH"],
-      "pl": ["UCZYĆ", "NAUKA", "UCZEŃ"]
+      "en": ["LEARN", "STUDY", "TEACH", "BRAIN"],
+      "pl": ["UCZYĆ", "NAUKA", "UCZEŃ", "ROZUM"]
     },
     "hint": {
       "en": "\"The beautiful thing about learning is that no one can take it away from you.\"",
@@ -173,8 +173,8 @@
       "pl": "Skorpion"
     },
     "hint": {
-      "en": "It only reveals itself at night.",
-      "pl": "Ujawnia się tylko w nocy."
+      "en": "It only reveals itself in the dark at night.",
+      "pl": "Ujawnia się tylko po ciemku w nocy."
     }
   },
   {
@@ -315,8 +315,8 @@
       "pl": "Zgaś światła"
     },
     "hint": {
-      "en": "Start from the top: B1, B2, D2, A3 ...",
-      "pl": "Zacznij od góry: B1, B2, D2, A3 ..."
+      "en": "Start from the top: B1, B2, D2, A3, B3, C3, E3 ...",
+      "pl": "Zacznij od góry: B1, B2, D2, A3, B3, C3, E3 ..."
     }
   },
   {
@@ -390,33 +390,6 @@
     }
   },
   {
-    "type": "tetris",
-    "name": {
-      "en": "Tetris",
-      "pl": "Tetris"
-    },
-    "hint": {
-      "en": "Hint#1 Fill the board with all pieces. Hint#2 Red square in the upper right corner.",
-      "pl": "Wskazówka#1 Wypełnij planszę elementami. Wskazówka#2 Czerwony kwadrat w górny prawy róg."
-    }
-  },
-  {
-    "type": "image",
-    "name": {
-      "en": "Glagolitic",
-      "pl": "Głagolica"
-    },
-    "imageAsset": "assets/glagocode.png",
-    "answer": {
-      "en": "trufla",
-      "pl": "trufla"
-    },
-    "hint": {
-      "en": "[click](https://raw.githubusercontent.com/qbabe85/qpuzzles-web/refs/heads/main/assets/assets/glagolica.png)",
-      "pl": "[kliknij](https://raw.githubusercontent.com/qbabe85/qpuzzles-web/refs/heads/main/assets/assets/glagolica.png)"
-    }
-  },
-  {
     "type": "siren",
     "name": {
       "en": "Emergency",
@@ -433,6 +406,33 @@
     "hint": {
       "en": "📞 Another phone call for help",
       "pl": "📞 Kolejny telefon po pomoc"
+    }
+  },
+  {
+    "type": "tetris",
+    "name": {
+      "en": "Tetris",
+      "pl": "Tetris"
+    },
+    "hint": {
+      "en": "Red square in the upper right corner and a blue line below it.",
+      "pl": "Czerwony kwadrat w górny prawy róg, a niebieska linia pod nim."
+    }
+  },
+  {
+    "type": "image",
+    "name": {
+      "en": "Glagolitic",
+      "pl": "Głagolica"
+    },
+    "imageAsset": "assets/glagocode.png",
+    "answer": {
+      "en": "trufla",
+      "pl": "trufla"
+    },
+    "hint": {
+      "en": "[click](https://raw.githubusercontent.com/qbabe85/qpuzzles-web/refs/heads/main/assets/assets/glagolica.png)",
+      "pl": "[kliknij](https://raw.githubusercontent.com/qbabe85/qpuzzles-web/refs/heads/main/assets/assets/glagolica.png)"
     }
   },
   {
@@ -466,20 +466,20 @@
   {
     "type": "text",
     "name": {
-      "en": "Words",
-      "pl": "Słowa"
+      "en": "CyberPizza",
+      "pl": "CyberPizza"
     },
     "question": {
-      "en": "Go hang a salami, I'm a lasagna hog\nSatan, oscillate my metallic sonatas",
-      "pl": "Łapał za kran, a kanarka złapał\nWół utył i ma miły tułów"
+      "en": "100100001111010101000110111000",
+      "pl": "100100001111010101000110111000"
     },
     "answer": {
-      "en": "palindrome",
-      "pl": "palindrom"
+      "en": "xxxx",
+      "pl": "xxxx"
     },
     "hint": {
-      "en": "level",
-      "pl": "sedes"
+      "en": "📞 Order a puzzle at this number.",
+      "pl": "📞 Zamów zagadkę pod tym numerem."
     }
   },
   {
