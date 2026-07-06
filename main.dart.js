@@ -96513,7 +96513,7 @@ $2(a,b){var s,r,q=null,p=A.T(a),o=this.a,n=o.a.d,m=o.a7i(n),l=p.ax.a===B.af?m:n
 p=A.jQ(l,new A.av7(n),B.d7,q,q)
 s=o.a.e
 r=t.J
-s=A.b([new A.bu(B.bb,p,q),B.aJ,A.n8(A.cL("[a-zA-Z0-9]",!1),s,new A.av8(o)),B.aQ,A.jI(A.ai(A.ay(a,B.t,r).aI("submit"),q,q,q,q,q,q),o.gaf_()),B.aQ],t.p)
+s=A.b([new A.bu(B.bb,p,q),B.aJ,A.n8(A.cL("[a-zA-Z0-9\u0105\u0107\u0119\u0142\u0144\xf3\u015b\u017a\u017c\u0104\u0106\u0118\u0141\u0143\xd3\u015a\u0179\u017b]",!1),s,new A.av8(o)),B.aQ,A.jI(A.ai(A.ay(a,B.t,r).aI("submit"),q,q,q,q,q,q),o.gaf_()),B.aQ],t.p)
 p=o.e
 if(p.length!==0)s.push(A.ai(p,q,q,q,q,q,q))
 if(o.f)s.push(new A.bu(B.cf,A.ai(A.ay(a,B.t,r).aI("puzzleSolved"),q,q,q,B.c9,q,q),q))
@@ -96819,7 +96819,7 @@ o.push(q.a7l(p))
 B.b.a0(r,o);++p}r=A.dx(A.bE(r,B.r,B.v,B.A),m,l-16)
 o=q.a.e
 n=t.J
-s=A.b([new A.bu(B.bb,r,m),B.aJ,A.n8(A.cL("[a-zA-Z0-9]",!1),o,new A.aw4(q)),B.aQ,A.jI(A.ai(A.ay(a,B.t,n).aI("submit"),m,m,m,m,m,m),q.ga7W()),B.aQ],s)
+s=A.b([new A.bu(B.bb,r,m),B.aJ,A.n8(A.cL("[a-zA-Z0-9\u0105\u0107\u0119\u0142\u0144\xf3\u015b\u017a\u017c\u0104\u0106\u0118\u0141\u0143\xd3\u015a\u0179\u017b]",!1),o,new A.aw4(q)),B.aQ,A.jI(A.ai(A.ay(a,B.t,n).aI("submit"),m,m,m,m,m,m),q.ga7W()),B.aQ],s)
 r=q.f
 if(r.length!==0)s.push(A.ai(r,m,m,m,m,m,m))
 if(q.r)s.push(new A.bu(B.cf,A.ai(A.ay(a,B.t,n).aI("puzzleSolved"),m,m,m,B.c9,m,m),m))
@@ -97038,7 +97038,7 @@ L(a){var s,r=this,q=null,p=A.T(a).ax.a===B.af&&r.afh(new A.et(Date.now(),0,!1)),
 if(p)n.push(new A.bu(B.bb,A.jQ("assets/scorpio.png",q,B.d7,q,q),q))
 n.push(B.du)
 s=r.a.d
-n.push(A.n8(A.cL("[a-zA-Z0-9]",!1),s,new A.axQ(r)))
+n.push(A.n8(A.cL("[a-zA-Z0-9\u0105\u0107\u0119\u0142\u0144\xf3\u015b\u017a\u017c\u0104\u0106\u0118\u0141\u0143\xd3\u015a\u0179\u017b]",!1),s,new A.axQ(r)))
 n.push(B.aQ)
 n.push(A.jI(A.ai(o.aI("submit"),q,q,q,q,q,q),r.gagt()))
 n.push(B.aQ)
