@@ -93,8 +93,8 @@
   {
     "type": "image",
     "name": {
-      "en": "Phone",
-      "pl": "Telefon"
+      "en": "Math",
+      "pl": "Matma"
     },
     "imageAsset": "assets/math.png",
     "answer": {
@@ -137,14 +137,14 @@
     }
   },
   {
-    "type": "arrows",
+    "type": "connect_pairs",
     "name": {
-      "en": "Arrows",
-      "pl": "Strzałki"
+      "en": "Connect Pairs",
+      "pl": "Połącz pary"
     },
     "hint": {
-      "en": "Get rid of the arrows.",
-      "pl": "Pozbądź się strzałek."
+      "en": "Select a color by tapping one of its colored tiles.",
+      "pl": "Wybierz kolor, klikając na jeden z jego kolorowych kafelków."
     }
   },
   {
@@ -184,7 +184,7 @@
       "pl": "Swatka"
     },
     "question": {
-      "en": "Ask the matchmaker for a riddle",
+      "en": "For a riddle, ask the matchmaker",
       "pl": "O zagadkę zapytaj swatkę"
     },
     "answer": {
@@ -259,14 +259,14 @@
     }
   },
   {
-    "type": "connect_pairs",
+    "type": "arrows",
     "name": {
-      "en": "Connect Pairs",
-      "pl": "Połącz pary"
+      "en": "Arrows",
+      "pl": "Strzałki"
     },
     "hint": {
-      "en": "Select a color by tapping one of its colored tiles.",
-      "pl": "Wybierz kolor, klikając na jeden z jego kolorowych kafelków."
+      "en": "Get rid of the arrows.",
+      "pl": "Pozbądź się strzałek."
     }
   },
   {
@@ -374,22 +374,6 @@
     }
   },
   {
-    "type": "image",
-    "name": {
-      "en": "Parking",
-      "pl": "Parking"
-    },
-    "imageAsset": "assets/parking.png",
-    "answer": {
-      "en": "87",
-      "pl": "87"
-    },
-    "hint": {
-      "en": "Where is the car parked?",
-      "pl": "Gdzie zaparkował?"
-    }
-  },
-  {
     "type": "siren",
     "name": {
       "en": "Emergency",
@@ -409,14 +393,14 @@
     }
   },
   {
-    "type": "tetris",
+    "type": "sudoku",
     "name": {
-      "en": "Tetris",
-      "pl": "Tetris"
+      "en": "Sudoku ",
+      "pl": "Sudoku"
     },
     "hint": {
-      "en": "Red square in the upper right corner and a blue line below it.",
-      "pl": "Czerwony kwadrat w górny prawy róg, a niebieska linia pod nim."
+      "en": "Fill the missing numbers.",
+      "pl": "Wypełnij brakujące liczby."
     }
   },
   {
@@ -433,6 +417,17 @@
     "hint": {
       "en": "[click](https://raw.githubusercontent.com/qbabe85/qpuzzles-web/refs/heads/main/assets/assets/glagolica.png)",
       "pl": "[kliknij](https://raw.githubusercontent.com/qbabe85/qpuzzles-web/refs/heads/main/assets/assets/glagolica.png)"
+    }
+  },
+  {
+    "type": "tetris",
+    "name": {
+      "en": "Tetris",
+      "pl": "Tetris"
+    },
+    "hint": {
+      "en": "Red square in the upper right corner and a blue line below it.",
+      "pl": "Czerwony kwadrat w górny prawy róg, a niebieska linia pod nim."
     }
   },
   {
@@ -453,33 +448,38 @@
     "unlockDate": "2026-06-18T00:00:00Z"
   },
   {
-    "type": "sudoku",
+    "type": "image",
     "name": {
-      "en": "Sudoku ",
-      "pl": "Sudoku"
+      "en": "Parking",
+      "pl": "Parking"
+    },
+    "imageAsset": "assets/parking.png",
+    "answer": {
+      "en": "87",
+      "pl": "87"
     },
     "hint": {
-      "en": "Fill the missing numbers.",
-      "pl": "Wypełnij brakujące liczby."
+      "en": "Where is the car parked?",
+      "pl": "Gdzie zaparkował?"
     }
   },
   {
     "type": "text",
     "name": {
-      "en": "CyberPizza",
-      "pl": "CyberPizza"
+      "en": "Silver",
+      "pl": "Srebrna"
     },
     "question": {
-      "en": "100100001111010101000110111000",
-      "pl": "100100001111010101000110111000"
+      "en": "1110111N000000001000100000001",
+      "pl": "11101111000000001000100000001"
     },
     "answer": {
       "en": "xxxx",
       "pl": "xxxx"
     },
     "hint": {
-      "en": "📞 Order a puzzle at this number.",
-      "pl": "📞 Zamów zagadkę pod tym numerem."
+      "en": "📞 For the riddle, ask your neighbor.",
+      "pl": "📞 O zagadkę zapytaj sąsiadkę."
     }
   },
   {
