@@ -80,6 +80,22 @@
     }
   },
   {
+    "type": "scratch",
+    "name": {
+      "en": "Ticket",
+      "pl": "Bilet"
+    },
+    "imageAsset": "assets/flight.png",
+    "answer": {
+      "en": "porto",
+      "pl": "porto"
+    },
+    "hint": {
+      "en": "Where to?",
+      "pl": "Dokąd to?"
+    }
+  },
+  {
     "type": "jumper",
     "name": {
       "en": "Jumper",
@@ -89,7 +105,7 @@
       "en": "There can be only one.",
       "pl": "Może zostać tylko jeden."
     },
-    "unlockDate": "2027-07-18T00:00:00Z"
+    "unlockDate": "2025-07-18T00:00:00Z"
   },
   {
     "type": "image",
@@ -135,17 +151,6 @@
     "hint": {
       "en": "Caesar's cipher. (3)",
       "pl": "Szyfr Cezara. (3)"
-    }
-  },
-  {
-    "type": "connect_pairs",
-    "name": {
-      "en": "Connect Pairs",
-      "pl": "Połącz pary"
-    },
-    "hint": {
-      "en": "Select a color by tapping one of its colored tiles.",
-      "pl": "Wybierz kolor, klikając na jeden z jego kolorowych kafelków."
     }
   },
   {
@@ -240,7 +245,7 @@
       "en": "First island.",
       "pl": "Pierwsza wyspa."
     },
-    "unlockDate": "2027-07-25T00:00:00Z"
+    "unlockDate": "2025-07-25T00:00:00Z"
   },
   {
     "type": "text",
@@ -310,7 +315,7 @@
       "en": "You will find your reward there.",
       "pl": "Tam znajdziesz nagrodę."
     },
-    "unlockDate": "2027-07-27T00:00:00Z"
+    "unlockDate": "2025-07-27T00:00:00Z"
   },
   {
     "type": "lights_out",
@@ -395,7 +400,7 @@
       "en": "📞 Another phone call for help.",
       "pl": "📞 Kolejny telefon po pomoc."
     },
-    "unlockDate": "2027-08-01T00:00:00Z"
+    "unlockDate": "2025-08-01T00:00:00Z"
   },
   {
     "type": "sudoku",
@@ -450,7 +455,7 @@
       "en": "Find what is hidden.",
       "pl": "Znajdź to co ukryte."
     },
-    "unlockDate": "2027-08-09T00:00:00Z"
+    "unlockDate": "2025-08-09T00:00:00Z"
   },
   {
     "type": "image",
@@ -521,16 +526,16 @@
     }
   },
   {
-    "type": "pattern_shift",
+    "type": "connect_pairs",
     "name": {
-      "en": "Pattern Shift",
-      "pl": "Uciekający wzór"
+      "en": "Connect Pairs",
+      "pl": "Połącz pary"
     },
     "hint": {
-      "en": "When you select a row, the others will move. (13/25/PL/14/14)",
-      "pl": "Gdy zaznaczasz wiersz, inne uciekają. (13/25/23/14/EN)"
+      "en": "Select a color by tapping one of its colored tiles.",
+      "pl": "Wybierz kolor, klikając na jeden z jego kolorowych kafelków."
     },
-    "unlockDate": "2027-08-17T00:00:00Z"
+    "unlockDate": "2025-08-17T00:00:00Z"
   },
   {
     "type": "compose",
@@ -596,6 +601,6 @@
       "en": "Go where the riddle leads.",
       "pl": "Udaj się tam gdzie prowadzi zagadka."
     },
-    "unlockDate": "2027-08-21T00:00:00Z"
+    "unlockDate": "2025-08-21T00:00:00Z"
   }
 ]
