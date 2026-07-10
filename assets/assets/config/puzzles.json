@@ -89,7 +89,7 @@
       "en": "There can be only one.",
       "pl": "Może zostać tylko jeden."
     },
-    "unlockDate": "2026-07-10T00:00:00Z"
+    "unlockDate": "2027-07-18T00:00:00Z"
   },
   {
     "type": "image",
@@ -239,7 +239,8 @@
     "hint": {
       "en": "First island.",
       "pl": "Pierwsza wyspa."
-    }
+    },
+    "unlockDate": "2027-07-25T00:00:00Z"
   },
   {
     "type": "text",
@@ -302,13 +303,14 @@
       "assets/layers/volvo_red.png"
     ],
     "answer": {
-      "en": "volvo",
-      "pl": "volvo"
+      "en": "0929",
+      "pl": "0929"
     },
     "hint": {
       "en": "You will find your reward there.",
       "pl": "Tam znajdziesz nagrodę."
-    }
+    },
+    "unlockDate": "2027-07-27T00:00:00Z"
   },
   {
     "type": "lights_out",
@@ -319,8 +321,7 @@
     "hint": {
       "en": "Start from the top: B1, B2, D2, A3, B3, C3, E3 ...",
       "pl": "Zacznij od góry: B1, B2, D2, A3, B3, C3, E3 ..."
-    },
-    "unlockCode": "0929"
+    }
   },
   {
     "type": "sound",
@@ -393,7 +394,8 @@
     "hint": {
       "en": "📞 Another phone call for help.",
       "pl": "📞 Kolejny telefon po pomoc."
-    }
+    },
+    "unlockDate": "2027-08-01T00:00:00Z"
   },
   {
     "type": "sudoku",
@@ -441,13 +443,14 @@
     },
     "imageAsset": "assets/scratch.png",
     "answer": {
-      "en": "xxxx",
-      "pl": "xxxx"
+      "en": "1424",
+      "pl": "1424"
     },
     "hint": {
       "en": "Find what is hidden.",
       "pl": "Znajdź to co ukryte."
-    }
+    },
+    "unlockDate": "2027-08-09T00:00:00Z"
   },
   {
     "type": "image",
@@ -463,8 +466,7 @@
     "hint": {
       "en": "Where is the car parked?",
       "pl": "Gdzie zaparkował?"
-    },
-    "unlockCode": "1424"
+    }
   },
   {
     "type": "text",
@@ -527,7 +529,8 @@
     "hint": {
       "en": "When you select a row, the others will move. (13/25/PL/14/14)",
       "pl": "Gdy zaznaczasz wiersz, inne uciekają. (13/25/23/14/EN)"
-    }
+    },
+    "unlockDate": "2027-08-17T00:00:00Z"
   },
   {
     "type": "compose",
@@ -593,6 +596,6 @@
       "en": "Go where the riddle leads.",
       "pl": "Udaj się tam gdzie prowadzi zagadka."
     },
-    "unlockDate": "2026-08-21T00:00:00Z"
+    "unlockDate": "2027-08-21T00:00:00Z"
   }
 ]
