@@ -105,7 +105,7 @@
       "en": "There can be only one.",
       "pl": "Może zostać tylko jeden."
     },
-    "unlockDate": "2025-07-18T00:00:00Z"
+    "unlockDate": "2026-07-17T00:00:00Z"
   },
   {
     "type": "image",
@@ -195,8 +195,8 @@
       "pl": "O zagadkę zapytaj swatkę"
     },
     "answer": {
-      "en": "xxxx",
-      "pl": "xxxx"
+      "en": "6",
+      "pl": "6"
     },
     "hint": {
       "en": "📞 Touch it, hold it and call the right person.",
@@ -245,7 +245,7 @@
       "en": "First island.",
       "pl": "Pierwsza wyspa."
     },
-    "unlockDate": "2025-07-25T00:00:00Z"
+    "unlockDate": "2026-07-24T00:00:00Z"
   },
   {
     "type": "text",
@@ -315,7 +315,7 @@
       "en": "You will find your reward there.",
       "pl": "Tam znajdziesz nagrodę."
     },
-    "unlockDate": "2025-07-27T00:00:00Z"
+    "unlockDate": "2026-07-27T00:00:00Z"
   },
   {
     "type": "lights_out",
@@ -393,14 +393,14 @@
       "pl": "DZWOŃ DO RATOWNIKA"
     },
     "answer": {
-      "en": "xxxx",
-      "pl": "xxxx"
+      "en": "thong",
+      "pl": "stringi"
     },
     "hint": {
       "en": "📞 Another phone call for help.",
       "pl": "📞 Kolejny telefon po pomoc."
     },
-    "unlockDate": "2025-08-01T00:00:00Z"
+    "unlockDate": "2026-08-01T00:00:00Z"
   },
   {
     "type": "sudoku",
@@ -455,7 +455,7 @@
       "en": "Find what is hidden.",
       "pl": "Znajdź to co ukryte."
     },
-    "unlockDate": "2025-08-09T00:00:00Z"
+    "unlockDate": "2026-08-09T00:00:00Z"
   },
   {
     "type": "image",
@@ -535,7 +535,7 @@
       "en": "Select a color by tapping one of its colored tiles.",
       "pl": "Wybierz kolor, klikając na jeden z jego kolorowych kafelków."
     },
-    "unlockDate": "2025-08-17T00:00:00Z"
+    "unlockDate": "2026-08-15T00:00:00Z"
   },
   {
     "type": "compose",
@@ -601,6 +601,6 @@
       "en": "Go where the riddle leads.",
       "pl": "Udaj się tam gdzie prowadzi zagadka."
     },
-    "unlockDate": "2025-08-21T00:00:00Z"
+    "unlockDate": "2026-08-21T00:00:00Z"
   }
 ]
