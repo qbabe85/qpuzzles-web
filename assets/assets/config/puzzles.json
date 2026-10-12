@@ -273,17 +273,17 @@
   {
     "type": "scratch",
     "name": {
-      "en": "Ticket",
-      "pl": "Bilet"
+      "en": "Magnet",
+      "pl": "Magnes"
     },
-    "imageAsset": "assets/flight.png",
+    "imageAsset": "assets/scratch2.png",
     "answer": {
-      "en": "porto",
-      "pl": "porto"
+      "en": "safe",
+      "pl": "sejf"
     },
     "hint": {
-      "en": "Where to?",
-      "pl": "Dokąd to?"
+      "en": "Hidden beneath this.",
+      "pl": "Pod tym ukryte."
     }
   }
 ]
