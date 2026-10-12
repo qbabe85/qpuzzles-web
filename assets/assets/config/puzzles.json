@@ -1,156 +1,13 @@
 [
   {
-    "type": "text",
+    "type": "connect_pairs",
     "name": {
-      "en": "Init",
-      "pl": "Start"
-    },
-    "question": {
-      "en": "Who is playing?",
-      "pl": "Kto gra?"
-    },
-    "answer": {
-      "en": "Natalia",
-      "pl": "Natalia"
+      "en": "Connect Pairs",
+      "pl": "Połącz pary"
     },
     "hint": {
-      "en": "Please introduce yourself.",
-      "pl": "Przedstaw się proszę."
-    }
-  },
-  {
-    "type": "text",
-    "name": {
-      "en": "Birthday",
-      "pl": "Urodziny"
-    },
-    "question": {
-      "en": "2208\n\nhas birthday as well",
-      "pl": "2208\n\nteż ma urodziny"
-    },
-    "answer": {
-      "en": "Dua Lipa",
-      "pl": "Dua Lipa"
-    },
-    "hint": {
-      "en": "One kiss is all it takes.",
-      "pl": "Jeden pocałunek to wszystko co trzeba."
-    }
-  },
-  {
-    "type": "fill_all",
-    "name": {
-      "en": "Fill All",
-      "pl": "Wypełnij"
-    },
-    "hint": {
-      "en": "Fill all tiles.",
-      "pl": "Wypełnij wszystkie pola."
-    }
-  },
-  {
-    "type": "free_the_dog",
-    "name": {
-      "en": "Free The Dog",
-      "pl": "Uwolnij psa"
-    },
-    "hint": {
-      "en": "Maybe the dog likes the dark.",
-      "pl": "Może pies lubi ciemność."
-    },
-    "themeMode": "light"
-  },
-  {
-    "type": "text",
-    "name": {
-      "en": "Lines & Dots",
-      "pl": "Kropki i kreski"
-    },
-    "question": {
-      "en": "-...\n..-\n-..\n.-.\n-.--\n...",
-      "pl": "-...\n..-\n-..\n.-.\n-.--\n..."
-    },
-    "answer": {
-      "en": "Budrys",
-      "pl": "Budrys"
-    },
-    "hint": {
-      "en": "SOS",
-      "pl": "SOS"
-    }
-  },
-  {
-    "type": "scratch",
-    "name": {
-      "en": "Ticket",
-      "pl": "Bilet"
-    },
-    "imageAsset": "assets/flight.png",
-    "answer": {
-      "en": "porto",
-      "pl": "porto"
-    },
-    "hint": {
-      "en": "Where to?",
-      "pl": "Dokąd to?"
-    }
-  },
-  {
-    "type": "jumper",
-    "name": {
-      "en": "Jumper",
-      "pl": "Skoczek"
-    },
-    "hint": {
-      "en": "There can be only one.",
-      "pl": "Może zostać tylko jeden."
-    },
-    "unlockDate": "2026-07-17T00:00:00Z"
-  },
-  {
-    "type": "image",
-    "name": {
-      "en": "Math",
-      "pl": "Matma"
-    },
-    "imageAsset": "assets/math.png",
-    "answer": {
-      "en": "strużnica",
-      "pl": "strużnica"
-    },
-    "hint": {
-      "en": "📞 Call this number.",
-      "pl": "📞 Zadzwoń pod ten numer."
-    }
-  },
-  {
-    "type": "memory",
-    "name": {
-      "en": "Memory",
-      "pl": "Pamięć"
-    },
-    "hint": {
-      "en": "Watch the sequence and repeat it back.",
-      "pl": "Obserwuj sekwencję i powtórz ją."
-    }
-  },
-  {
-    "type": "text",
-    "name": {
-      "en": "Ave Caesar",
-      "pl": "Ave Cezar"
-    },
-    "question": {
-      "en": "qhz vfrxw ehiruh wkh rdwk lq srodqg",
-      "pl": "qrzb kdufhuc suchg sucbuchfchqlhp"
-    },
-    "answer": {
-      "en": "biscuit",
-      "pl": "biszkopt"
-    },
-    "hint": {
-      "en": "Caesar's cipher. (3)",
-      "pl": "Szyfr Cezara. (3)"
+      "en": "Select a color by tapping one of its colored tiles.",
+      "pl": "Wybierz kolor, klikając na jeden z jego kolorowych kafelków."
     }
   },
   {
@@ -166,57 +23,6 @@
     "hint": {
       "en": "\"The beautiful thing about learning is that no one can take it away from you.\"",
       "pl": "\"Nauka to pokarm dla rozumu.\""
-    },
-    "unlockCode": "2008"
-  },
-  {
-    "type": "night_level",
-    "name": {
-      "en": "Night Level",
-      "pl": "Poziom nocny"
-    },
-    "answer": {
-      "en": "Scorpio",
-      "pl": "Skorpion"
-    },
-    "hint": {
-      "en": "It only reveals itself in the dark at night.",
-      "pl": "Ujawnia się tylko po ciemku w nocy."
-    }
-  },
-  {
-    "type": "touch",
-    "name": {
-      "en": "Matchmaker",
-      "pl": "Swatka"
-    },
-    "question": {
-      "en": "For a riddle, ask the matchmaker",
-      "pl": "O zagadkę zapytaj swatkę"
-    },
-    "answer": {
-      "en": "6",
-      "pl": "6"
-    },
-    "hint": {
-      "en": "📞 Touch it, hold it and call the right person.",
-      "pl": "📞 Dotknij, przytrzymaj i zadzwoń do odpowiedniej osoby."
-    }
-  },
-  {
-    "type": "image",
-    "name": {
-      "en": "Song",
-      "pl": "Piosenka"
-    },
-    "imageAsset": "assets/rhcp.png",
-    "answer": {
-      "en": "otherside",
-      "pl": "otherside"
-    },
-    "hint": {
-      "en": "Good for karaoke.",
-      "pl": "Dobre na karaoke."
     }
   },
   {
@@ -233,142 +39,33 @@
   {
     "type": "image",
     "name": {
-      "en": "Island",
-      "pl": "Wyspa"
+      "en": "Country",
+      "pl": "Kraj"
     },
-    "imageAsset": "assets/crete.png",
+    "imageAsset": "assets/italy.png",
     "answer": {
-      "en": "Crete",
-      "pl": "Kreta"
+      "en": "Italy",
+      "pl": "Włochy"
     },
     "hint": {
-      "en": "First island.",
-      "pl": "Pierwsza wyspa."
-    },
-    "unlockDate": "2026-07-23T00:00:00Z"
-  },
-  {
-    "type": "text",
-    "name": {
-      "en": "Coordinates",
-      "pl": "Współrzędne"
-    },
-    "question": {
-      "en": "50.792\n15.513",
-      "pl": "50.792\n15.513"
-    },
-    "answer": {
-      "en": "storm",
-      "pl": "burza"
-    },
-    "hint": {
-      "en": "What could happen there?",
-      "pl": "Co tam można spotkać?"
-    }
-  },
-  {
-    "type": "arrows",
-    "name": {
-      "en": "Arrows",
-      "pl": "Strzałki"
-    },
-    "hint": {
-      "en": "Get rid of the arrows.",
-      "pl": "Pozbądź się strzałek."
-    }
-  },
-  {
-    "type": "text",
-    "name": {
-      "en": "Associations",
-      "pl": "Skojarzenia"
-    },
-    "question": {
-      "en": "Ponta de São Lourenço\nCR7\nCarros de Cesto do Monte\nPastéis de nata",
-      "pl": "Ponta de São Lourenço\nCR7\nCarros de Cesto do Monte\nPastéis de nata"
-    },
-    "answer": {
-      "en": "Madeira",
-      "pl": "Madera"
-    },
-    "hint": {
-      "en": "Where is it?",
-      "pl": "Gdzie to jest?"
-    }
-  },
-  {
-    "type": "layers",
-    "name": {
-      "en": "Layers",
-      "pl": "Warstwy"
-    },
-    "layerAssets": [
-      "assets/layers/volvo_blue.png",
-      "assets/layers/volvo_green.png",
-      "assets/layers/volvo_red.png"
-    ],
-    "answer": {
-      "en": "0929",
-      "pl": "0929"
-    },
-    "hint": {
-      "en": "You will find your reward there.",
-      "pl": "Tam znajdziesz nagrodę."
-    },
-    "unlockDate": "2026-07-27T00:00:00Z"
-  },
-  {
-    "type": "lights_out",
-    "name": {
-      "en": "Lights Out",
-      "pl": "Zgaś światła"
-    },
-    "hint": {
-      "en": "Start from the top: B1, B2, D2, A3, B3, C3, E3 ...",
-      "pl": "Zacznij od góry: B1, B2, D2, A3, B3, C3, E3 ..."
-    }
-  },
-  {
-    "type": "sound",
-    "name": {
-      "en": "Sound",
-      "pl": "Dźwięki"
-    },
-    "soundAsset": "skeleton.m4a",
-    "answer": {
-      "en": "skeleton",
-      "pl": "kościotrup"
-    },
-    "hint": {
-      "en": "Listen carefully.",
-      "pl": "Słuchaj uważnie."
+      "en": "You were there.",
+      "pl": "Byłeś tam."
     }
   },
   {
     "type": "image",
     "name": {
-      "en": "Intercom",
-      "pl": "Domofon"
+      "en": "Math",
+      "pl": "Matma"
     },
-    "imageAsset": "assets/code.png",
+    "imageAsset": "assets/math2.png",
     "answer": {
-      "en": "6580",
-      "pl": "6580"
+      "en": "yamaha",
+      "pl": "yamaha"
     },
     "hint": {
-      "en": "31 🔑 _ _ _ _",
-      "pl": "31 🔑 _ _ _ _"
-    }
-  },
-  {
-    "type": "rummy",
-    "name": {
-      "en": "Rummy",
-      "pl": "Remik"
-    },
-    "hint": {
-      "en": "You like it and you can finish it.",
-      "pl": "Lubisz to i możesz to skończyć."
+      "en": "📞 Call this number.",
+      "pl": "📞 Zadzwoń pod ten numer."
     }
   },
   {
@@ -380,37 +77,37 @@
     "hint": {
       "en": "Memorize bomb locations and find a safe way to exit.",
       "pl": "Zapamiętaj pozycje bomb i znajdź bezpieczną drogę do wyjścia."
+    },
+    "unlockDate": "2025-10-14T00:00:00Z"
+  },
+  {
+    "type": "text",
+    "name": {
+      "en": "Coordinates",
+      "pl": "Współrzędne"
+    },
+    "question": {
+      "en": "50.736\n15.740",
+      "pl": "50.736\n15.740"
+    },
+    "answer": {
+      "en": "śnieżka",
+      "pl": "śnieżka"
+    },
+    "hint": {
+      "en": "1603 m n.p.m.",
+      "pl": "1603 m n.p.m."
     }
   },
   {
-    "type": "siren",
+    "type": "rummy",
     "name": {
-      "en": "Emergency",
-      "pl": "Interwencja"
-    },
-    "question": {
-      "en": "CALL THE PARAMEDIC",
-      "pl": "DZWOŃ DO RATOWNIKA"
-    },
-    "answer": {
-      "en": "thong",
-      "pl": "stringi"
+      "en": "Rummy",
+      "pl": "Remik"
     },
     "hint": {
-      "en": "📞 Another phone call for help.",
-      "pl": "📞 Kolejny telefon po pomoc."
-    },
-    "unlockDate": "2026-08-01T00:00:00Z"
-  },
-  {
-    "type": "sudoku",
-    "name": {
-      "en": "Sudoku ",
-      "pl": "Sudoku"
-    },
-    "hint": {
-      "en": "Fill the missing numbers.",
-      "pl": "Wypełnij brakujące liczby."
+      "en": "You like it and you can finish it.",
+      "pl": "Lubisz to i możesz to skończyć."
     }
   },
   {
@@ -430,6 +127,57 @@
     }
   },
   {
+    "type": "touch",
+    "name": {
+      "en": "Touch",
+      "pl": "Dotyk"
+    },
+    "question": {
+      "en": "For a riddle, ask your mother",
+      "pl": "Tego nie czytaj tylko mamusię zapytaj"
+    },
+    "answer": {
+      "en": "todo",
+      "pl": "todo"
+    },
+    "hint": {
+      "en": "Touch it and hold it.",
+      "pl": "Dotknij i przytrzymaj."
+    },
+    "unlockDate": "2025-10-15T00:00:00Z"
+  },
+  {
+    "type": "fill_all",
+    "name": {
+      "en": "Fill All",
+      "pl": "Wypełnij"
+    },
+    "hint": {
+      "en": "Fill all tiles.",
+      "pl": "Wypełnij wszystkie pola."
+    },
+    "unlockCode": "6767"
+  },
+  {
+    "type": "text",
+    "name": {
+      "en": "Book",
+      "pl": "Książka"
+    },
+    "question": {
+      "en": "A box without hinges, key, or lid, yet golden treasure inside is hid.",
+      "pl": "skrzynia bez zawiasów, klucza i pokrywy, lecz złocisty w środku skarb kryje prawdziwy"
+    },
+    "answer": {
+      "en": "egg",
+      "pl": "jajko"
+    },
+    "hint": {
+      "en": "There and Back Again",
+      "pl": "Tam i z powrotem"
+    }
+  },
+  {
     "type": "tetris",
     "name": {
       "en": "Tetris",
@@ -441,21 +189,27 @@
     }
   },
   {
-    "type": "scratch",
+    "type": "reflex",
     "name": {
-      "en": "Scratch Card",
-      "pl": "Zdrapka"
-    },
-    "imageAsset": "assets/scratch.png",
-    "answer": {
-      "en": "1424",
-      "pl": "1424"
+      "en": "Reflex",
+      "pl": "Refleks"
     },
     "hint": {
-      "en": "Find what is hidden.",
-      "pl": "Znajdź to co ukryte."
+      "en": "Stop all pointers.",
+      "pl": "Zatrzymaj wszystkie wskaźniki."
+    }
+  },
+  {
+    "type": "akari",
+    "name": {
+      "en": "Akari",
+      "pl": "Akari"
     },
-    "unlockDate": "2026-08-08T00:00:00Z"
+    "hint": {
+      "en": "Place bulbs so every white cell is lit. Numbers count adjacent bulbs.",
+      "pl": "Oświetl każde białe pole. Cyfry oznaczają ilość sąsiadujących żarówek."
+    },
+    "unlockDate": "2025-10-16T00:00:00Z"
   },
   {
     "type": "image",
@@ -474,133 +228,62 @@
     }
   },
   {
-    "type": "text",
-    "name": {
-      "en": "Silver",
-      "pl": "Srebrna"
-    },
-    "question": {
-      "en": "11101111000000001000100000001",
-      "pl": "11101111000000001000100000001"
-    },
-    "answer": {
-      "en": "mrozek",
-      "pl": "mrozek"
-    },
-    "hint": {
-      "en": "📞 For the riddle, ask your neighbor.",
-      "pl": "📞 O zagadkę zapytaj sąsiadkę."
-    }
-  },
-  {
-    "type": "bomb_disposal",
-    "name": {
-      "en": "Bomb Disposal",
-      "pl": "Rozbrojenie bomb"
-    },
-    "hint": {
-      "en": "There are 7 bombs. Find all the safe spots.",
-      "pl": "Jest 7 bomb. Znajdź wszystkie bezpieczne miejsca."
-    }
-  },
-  {
-    "type": "trash_bin",
-    "name": {
-      "en": "Trash Bins",
-      "pl": "Kosze na śmieci"
-    },
-    "hint": {
-      "en": "What do we put out then?",
-      "pl": "Co wtedy wystawiamy?"
-    }
-  },
-  {
-    "type": "reflex",
-    "name": {
-      "en": "Reflex",
-      "pl": "Refleks"
-    },
-    "hint": {
-      "en": "Stop all pointers.",
-      "pl": "Zatrzymaj wszystkie wskaźniki."
-    }
-  },
-  {
-    "type": "connect_pairs",
-    "name": {
-      "en": "Connect Pairs",
-      "pl": "Połącz pary"
-    },
-    "hint": {
-      "en": "Select a color by tapping one of its colored tiles.",
-      "pl": "Wybierz kolor, klikając na jeden z jego kolorowych kafelków."
-    },
-    "unlockDate": "2026-08-15T00:00:00Z"
-  },
-  {
-    "type": "compose",
-    "name": {
-      "en": "Compose",
-      "pl": "Układanka"
-    },
-    "imageAsset": "assets/poster.png",
-    "hint": {
-      "en": "Reconstruct the image in 15 moves.",
-      "pl": "Zrekonstruuj obraz w 15 ruchach."
-    }
-  },
-  {
-    "type": "language_hints",
-    "name": {
-      "en": "Language Hints",
-      "pl": "Językowe Podpowiedzi"
-    },
-    "hints": {
-      "en": [
-        "It is not a physical object",
-        "It's always coming, but never arrives",
-        "Marty travelled there in time"
-      ],
-      "pl": [
-        "Zawsze jest przed tobą",
-        "Kiedy nadejdzie, zmienia swoje imię",
-        "Choć jest przed tobą, nigdy jej nie zobaczysz"
-      ]
-    },
-    "answer": {
-      "en": "Future",
-      "pl": "Przyszłość"
-    },
-    "hint": {
-      "en": "Maybe try it in Polish.",
-      "pl": "Może spróbuj po angielsku."
-    }
-  },
-  {
-    "type": "akari",
-    "name": {
-      "en": "Akari",
-      "pl": "Akari"
-    },
-    "hint": {
-      "en": "Place bulbs so every white cell is lit. Numbers count adjacent bulbs.",
-      "pl": "Oświetl każde białe pole. Cyfry oznaczają ilość sąsiadujących żarówek."
-    }
-  },
-  {
     "type": "hangman",
     "name": {
       "en": "Hangman",
       "pl": "Wisielec"
     },
     "sentence": {
-      "en": "STACJA SKOSZEWY",
-      "pl": "STACJA SKOSZEWY"
+      "en": "SEBA I MATI DWA DEBEŚCIAKI",
+      "pl": "SEBA I MATI DWA DEBEŚCIAKI"
     },
     "hint": {
       "en": "Go where the riddle leads.",
-      "pl": "Udaj się tam gdzie prowadzi zagadka."
+      "pl": "Guess before you hang."
+    }
+  },
+  {
+    "type": "sound",
+    "name": {
+      "en": "Sound",
+      "pl": "Dźwięki"
     },
-    "unlockDate": "2026-08-21T00:00:00Z"
+    "soundAsset": "skeleton.m4a",
+    "answer": {
+      "en": "karate",
+      "pl": "karate"
+    },
+    "hint": {
+      "en": "Listen carefully.",
+      "pl": "Słuchaj uważnie."
+    }
+  },
+  {
+    "type": "pattern_shift",
+    "name": {
+      "en": "Pattern Shift",
+      "pl": "Uciekający wzór"
+    },
+    "hint": {
+      "en": "When you select a row, the others will move. (13/25/PL/14/14)",
+      "pl": "Gdy zaznaczasz wiersz, inne uciekają. (13/25/23/14/EN)"
+    },
+    "unlockDate": "2025-10-17T00:00:00Z"
+  },
+  {
+    "type": "scratch",
+    "name": {
+      "en": "Ticket",
+      "pl": "Bilet"
+    },
+    "imageAsset": "assets/flight.png",
+    "answer": {
+      "en": "porto",
+      "pl": "porto"
+    },
+    "hint": {
+      "en": "Where to?",
+      "pl": "Dokąd to?"
+    }
   }
 ]
