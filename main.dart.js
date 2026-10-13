@@ -95508,7 +95508,7 @@ case 2:q.O(new A.axu(q,a))
 return A.E(null,r)}})
 return A.F($async$uR,r)},
 L(a){var s=this,r=null,q=A.rA(r,A.aGW(B.aB,r,r,B.n3),!0),p=A.rA(r,A.aGW(B.ah,r,r,B.n3),!0),o=s.d?B.hC:B.o3,n=s.e,m=A.b([B.Ln,B.Lu,B.LA,B.Lr],t.a9),l=s.e.gd_()
-return new A.B4(new A.Bp(s.d,s.gamk(),s.e,s.gakT(),new A.dy(l,t.kK)),"40 Puzzles",q,p,o,n,m,B.xT,r)}}
+return new A.B4(new A.Bp(s.d,s.gamk(),s.e,s.gakT(),new A.dy(l,t.kK)),"20 Puzzles",q,p,o,n,m,B.xT,r)}}
 A.axt.prototype={
 $0(){var s,r=this.a,q=this.b.a,p=A.hi(q.h(0,"darkMode"))
 r.d=p===!0
@@ -95726,7 +95726,7 @@ if(p!=null)A.h2(p,!1).mb(null)
 return A.E(null,r)}})
 return A.F($async$lE,r)},
 L(a){var s,r,q,p,o,n,m,l,k=this,j=null
-if(k.e)return A.aOu(A.aL9(j,B.adT),B.LI,j)
+if(k.e)return A.aOu(A.aL9(j,B.adV),B.LI,j)
 s=k.afV(k.w)
 r=t.p
 q=A.b([],r)
@@ -95876,11 +95876,11 @@ A.axP.prototype={
 $1(a){this.a.a.avD(a)},
 $S:572}
 A.axO.prototype={
-$1(a){var s,r=null,q=t.p,p=A.b([B.adV,B.kp,A.aj(A.aA(a,B.t,t.J).aI("puzzle"),r,r,r,r,r,r)],q),o=this.a
+$1(a){var s,r=null,q=t.p,p=A.b([B.adU,B.kp,A.aj(A.aA(a,B.t,t.J).aI("puzzle"),r,r,r,r,r,r)],q),o=this.a
 if(o.a.f.gd_()==="en")p.push(B.r3)
 s=t.da
 p=A.aO1(A.e2(p,B.r,B.v,B.bw,0),B.jC,s)
-q=A.b([B.adS,B.kp,B.adU],q)
+q=A.b([B.adS,B.kp,B.adT],q)
 if(o.a.f.gd_()==="pl")q.push(B.r3)
 return A.b([p,A.aO1(A.e2(q,B.r,B.v,B.bw,0),B.yd,s)],t.wO)},
 $S:573}
@@ -106374,9 +106374,9 @@ B.acG=new A.n(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,nul
 B.a9J=new A.n(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.i,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.adR=new A.e3(B.aby,B.aas,B.abz,B.ac_,B.aa8,B.aah,B.aaN,B.abV,B.ab_,B.acn,B.a9C,B.a9U,B.acj,B.acG,B.a9J)
 B.adS=new A.hP("\ud83c\uddf5\ud83c\uddf1",null,B.o_,null,null,null,null,null,null)
-B.adT=new A.hP("40 Puzzles",null,null,null,null,null,null,null,null)
-B.adU=new A.hP("Polski",null,null,null,null,null,null,null,null)
-B.adV=new A.hP("\ud83c\uddec\ud83c\udde7",null,B.o_,null,null,null,null,null,null)
+B.adT=new A.hP("Polski",null,null,null,null,null,null,null,null)
+B.adU=new A.hP("\ud83c\uddec\ud83c\udde7",null,B.o_,null,null,null,null,null,null)
+B.adV=new A.hP("20 Puzzles",null,null,null,null,null,null,null,null)
 B.IO=new A.hP("Retry",null,null,null,null,null,null,null,null)
 B.adW=new A.E_(0,"system")
 B.o3=new A.E_(1,"light")
