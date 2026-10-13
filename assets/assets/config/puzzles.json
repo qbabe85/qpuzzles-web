@@ -197,7 +197,8 @@
     "hint": {
       "en": "Stop all pointers.",
       "pl": "Zatrzymaj wszystkie wskaźniki."
-    }
+    },
+    "unlockDate": "2026-10-16T00:00:00Z"
   },
   {
     "type": "akari",
@@ -208,8 +209,7 @@
     "hint": {
       "en": "Place bulbs so every white cell is lit. Numbers count adjacent bulbs.",
       "pl": "Oświetl każde białe pole. Cyfry oznaczają ilość sąsiadujących żarówek."
-    },
-    "unlockDate": "2026-10-16T00:00:00Z"
+    }
   },
   {
     "type": "image",
@@ -250,13 +250,14 @@
     },
     "soundAsset": "skeleton.m4a",
     "answer": {
-      "en": "karate",
-      "pl": "karate"
+      "en": "gas station",
+      "pl": "stacja beznzynowa"
     },
     "hint": {
       "en": "Listen carefully.",
       "pl": "Słuchaj uważnie."
-    }
+    },
+    "unlockDate": "2026-10-17T00:00:00Z"
   },
   {
     "type": "pattern_shift",
@@ -267,8 +268,7 @@
     "hint": {
       "en": "When you select a row, the others will move. (13/25/PL/14/14)",
       "pl": "Gdy zaznaczasz wiersz, inne uciekają. (13/25/23/14/EN)"
-    },
-    "unlockDate": "2026-10-17T00:00:00Z"
+    }
   },
   {
     "type": "scratch",
