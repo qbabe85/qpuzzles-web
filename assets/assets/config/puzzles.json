@@ -78,7 +78,7 @@
       "en": "Memorize bomb locations and find a safe way to exit.",
       "pl": "Zapamiętaj pozycje bomb i znajdź bezpieczną drogę do wyjścia."
     },
-    "unlockDate": "2025-10-14T00:00:00Z"
+    "unlockDate": "2026-10-14T00:00:00Z"
   },
   {
     "type": "text",
@@ -134,17 +134,17 @@
     },
     "question": {
       "en": "For a riddle, ask your mother",
-      "pl": "Tego nie czytaj tylko mamusię zapytaj"
+      "pl": "Tego nie czytaj tylko mamę zapytaj"
     },
     "answer": {
-      "en": "todo",
-      "pl": "todo"
+      "en": "Bibu",
+      "pl": "Bibu"
     },
     "hint": {
       "en": "Touch it and hold it.",
       "pl": "Dotknij i przytrzymaj."
     },
-    "unlockDate": "2025-10-15T00:00:00Z"
+    "unlockDate": "2026-10-15T00:00:00Z"
   },
   {
     "type": "fill_all",
@@ -209,7 +209,7 @@
       "en": "Place bulbs so every white cell is lit. Numbers count adjacent bulbs.",
       "pl": "Oświetl każde białe pole. Cyfry oznaczają ilość sąsiadujących żarówek."
     },
-    "unlockDate": "2025-10-16T00:00:00Z"
+    "unlockDate": "2026-10-16T00:00:00Z"
   },
   {
     "type": "image",
@@ -268,7 +268,7 @@
       "en": "When you select a row, the others will move. (13/25/PL/14/14)",
       "pl": "Gdy zaznaczasz wiersz, inne uciekają. (13/25/23/14/EN)"
     },
-    "unlockDate": "2025-10-17T00:00:00Z"
+    "unlockDate": "2026-10-17T00:00:00Z"
   },
   {
     "type": "scratch",
